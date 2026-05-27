@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8001AN:AD8001AN",
+  "name": "AD8001AN",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8001AN.kicad_sym",
+  "description": "Current Feedback Amplifier, 800 MHz, 50mW, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad8001.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "MCP601-xP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8001AN/",
+  "part_path": "parts/AD8001AN",
+  "symbol_file": "parts/AD8001AN/AD8001AN.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:21.665Z"
+}

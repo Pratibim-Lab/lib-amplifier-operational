@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MAX4395ESD:MAX4395ESD",
+  "name": "MAX4395ESD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MAX4395ESD.kicad_sym",
+  "description": "Ultra-Small, Low-Cost, 85MHz Quad Op Amp with Rail-to-Rail Outputs",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX4389-MAX4396.pdf",
+  "keywords": "quad opamp",
+  "footprint": "Package_SO:SO-14_3.9x8.65mm_P1.27mm",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MAX4395ESD/",
+  "part_path": "parts/MAX4395ESD",
+  "symbol_file": "parts/MAX4395ESD/MAX4395ESD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:23.090Z"
+}

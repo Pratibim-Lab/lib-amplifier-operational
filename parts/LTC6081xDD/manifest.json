@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6081xDD:LTC6081xDD",
+  "name": "LTC6081xDD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6081xDD.kicad_sym",
+  "description": "Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers, DFN-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6081xDD/",
+  "part_path": "parts/LTC6081xDD",
+  "symbol_file": "parts/LTC6081xDD/LTC6081xDD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:59.219Z"
+}

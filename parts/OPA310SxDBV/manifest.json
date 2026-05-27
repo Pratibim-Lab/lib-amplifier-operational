@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA310SxDBV:OPA310SxDBV",
+  "name": "OPA310SxDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA310SxDBV.kicad_sym",
+  "description": "Single Rail-to-Rail Input/Output Operational Amplifier with Shutdown, 1.5..5.5V supply, 3MHz GBW, 250uV offset voltage, 150mA output current, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa310.pdf",
+  "keywords": "single opamp ",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "LTC6228xS6",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA310SxDBV/",
+  "part_path": "parts/OPA310SxDBV",
+  "symbol_file": "parts/OPA310SxDBV/OPA310SxDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:56.441Z"
+}

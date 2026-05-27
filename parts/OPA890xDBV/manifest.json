@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA890xDBV:OPA890xDBV",
+  "name": "OPA890xDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA890xDBV.kicad_sym",
+  "description": "Single Low-Power, Wideband, Voltage-Feedback Operational Amplifier with Disable, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa890.pdf",
+  "keywords": "single opamp wideband low-power",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA890xDBV/",
+  "part_path": "parts/OPA890xDBV",
+  "symbol_file": "parts/OPA890xDBV/OPA890xDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:59.194Z"
+}

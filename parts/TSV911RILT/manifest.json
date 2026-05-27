@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TSV911RILT:TSV911RILT",
+  "name": "TSV911RILT",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TSV911RILT.kicad_sym",
+  "description": "Single rail-to-rail input/output 8 MHz operational amplifiers, reversed power pins, SOT-23-5",
+  "datasheet": "www.st.com/resource/en/datasheet/tsv911.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "OP179GRT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TSV911RILT/",
+  "part_path": "parts/TSV911RILT",
+  "symbol_file": "parts/TSV911RILT/TSV911RILT.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:19.931Z"
+}

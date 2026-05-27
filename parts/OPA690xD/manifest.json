@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA690xD:OPA690xD",
+  "name": "OPA690xD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA690xD.kicad_sym",
+  "description": "Single Low-Power, 500 MHz GBW, ±2.5V to ±5V Dual Supply, 5V to 12V Single Supply, 190mA output current, 1.8kV/us slew rate, Voltage-Feedback Operational Amplifier with Disable, SO-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa690.pdf",
+  "keywords": "opamp texas",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA890xD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA690xD/",
+  "part_path": "parts/OPA690xD",
+  "symbol_file": "parts/OPA690xD/OPA690xD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:38.999Z"
+}

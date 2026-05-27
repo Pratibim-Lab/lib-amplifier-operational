@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA121KM:OPA121KM",
+  "name": "OPA121KM",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA121KM.kicad_sym",
+  "description": "Operational Amplifier, TO-99",
+  "datasheet": "https://www.alldatasheet.com/datasheet-pdf/pdf/56725/BURR-BROWN/OPA121.html",
+  "keywords": "single opamp BURR-BROWN Texas Instruments",
+  "footprint": "Package_TO_SOT_THT:TO-99-8",
+  "extends": "OPA121KU",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA121KM/",
+  "part_path": "parts/OPA121KM",
+  "symbol_file": "parts/OPA121KM/OPA121KM.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:56.277Z"
+}

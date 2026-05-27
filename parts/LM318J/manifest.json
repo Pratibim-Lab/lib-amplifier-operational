@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM318J:LM318J",
+  "name": "LM318J",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM318J.kicad_sym",
+  "description": "Operational Amplifier, DIP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm318-n.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_DIP:DIP-14_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM318J/",
+  "part_path": "parts/LM318J",
+  "symbol_file": "parts/LM318J/LM318J.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:58.520Z"
+}

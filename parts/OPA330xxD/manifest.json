@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA330xxD:OPA330xxD",
+  "name": "OPA330xxD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA330xxD.kicad_sym",
+  "description": "50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SOIC",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa330.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA330xxD/",
+  "part_path": "parts/OPA330xxD",
+  "symbol_file": "parts/OPA330xxD/OPA330xxD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:01.134Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA336Nx:OPA336Nx",
+  "name": "OPA336Nx",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA336Nx.kicad_sym",
+  "description": "100 KHz, microPower CMOS, Op Amps, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa2336.pdf",
+  "keywords": "single opamp rail",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA336Nx/",
+  "part_path": "parts/OPA336Nx",
+  "symbol_file": "parts/OPA336Nx/OPA336Nx.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:08.632Z"
+}

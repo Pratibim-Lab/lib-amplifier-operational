@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TL081:TL081",
+  "name": "TL081",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TL081.kicad_sym",
+  "description": "Single JFET-Input Operational Amplifiers, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tl081.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "LM741",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TL081/",
+  "part_path": "parts/TL081",
+  "symbol_file": "parts/TL081/TL081.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:18.707Z"
+}

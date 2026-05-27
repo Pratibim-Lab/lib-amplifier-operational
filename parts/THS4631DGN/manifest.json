@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/THS4631DGN:THS4631DGN",
+  "name": "THS4631DGN",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/THS4631DGN.kicad_sym",
+  "description": "Single High-voltage, High Slew Rate, Wideband, FET-input Operational Amplifier, MSOP-8",
+  "datasheet": "www.ti.com/lit/ds/symlink/ths4631.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "THS4631DDA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/THS4631DGN/",
+  "part_path": "parts/THS4631DGN",
+  "symbol_file": "parts/THS4631DGN/THS4631DGN.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:10.614Z"
+}

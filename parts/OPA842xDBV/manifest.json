@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA842xDBV:OPA842xDBV",
+  "name": "OPA842xDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA842xDBV.kicad_sym",
+  "description": "200MHz, Low Distortion, Unity-Gain Stable, Voltage Feedback Operational Amplifier, SOT23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa842.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA842xDBV/",
+  "part_path": "parts/OPA842xDBV",
+  "symbol_file": "parts/OPA842xDBV/OPA842xDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:46.680Z"
+}

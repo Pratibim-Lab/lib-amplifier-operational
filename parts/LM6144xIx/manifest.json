@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM6144xIx:LM6144xIx",
+  "name": "LM6144xIx",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM6144xIx.kicad_sym",
+  "description": "Low-Power, Quad-Operational Amplifiers, 17MHz, DIP-14/SOIC-14",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm6142.pdf",
+  "keywords": "quad opamp rail",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM6144xIx/",
+  "part_path": "parts/LM6144xIx",
+  "symbol_file": "parts/LM6144xIx/LM6144xIx.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:11.835Z"
+}

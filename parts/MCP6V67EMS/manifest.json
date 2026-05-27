@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6V67EMS:MCP6V67EMS",
+  "name": "MCP6V67EMS",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6V67EMS.kicad_sym",
+  "description": "Dual Operational Amplifiers, Zero-Drift, 80 kHz Bandwidth, 1.8V to 5.5V, Rail-to-Rail, MSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6V66-Family-Data-Sheet-DS20006266A.pdf",
+  "keywords": "dual opamp zero drift",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6V67EMS/",
+  "part_path": "parts/MCP6V67EMS",
+  "symbol_file": "parts/MCP6V67EMS/MCP6V67EMS.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:16.543Z"
+}

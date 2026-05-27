@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4841-1YRJ:ADA4841-1YRJ",
+  "name": "ADA4841-1YRJ",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4841-1YRJ.kicad_sym",
+  "description": "Low Power, Low Noise and Distorsion, Rail-to-Rail Output Amplifier, SOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4841-1_4841-2.pdf",
+  "keywords": "single opamp low-noise rail-to-rail",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4841-1YRJ/",
+  "part_path": "parts/ADA4841-1YRJ",
+  "symbol_file": "parts/ADA4841-1YRJ/ADA4841-1YRJ.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:21.916Z"
+}

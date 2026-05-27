@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA336Ux:OPA336Ux",
+  "name": "OPA336Ux",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA336Ux.kicad_sym",
+  "description": "100 KHz, microPower CMOS, Op Amps, SO-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa2336.pdf",
+  "keywords": "single opamp rail",
+  "footprint": "Package_SO:SO-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA336Ux/",
+  "part_path": "parts/OPA336Ux",
+  "symbol_file": "parts/OPA336Ux/OPA336Ux.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:09.906Z"
+}

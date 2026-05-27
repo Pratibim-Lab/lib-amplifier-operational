@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4898-2:ADA4898-2",
+  "name": "ADA4898-2",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4898-2.kicad_sym",
+  "description": "Dual High Voltage, Low Noise, Low Distortion, Unity-Gain Stable, High Speed Op Amp, SOIC-8-1EP",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf",
+  "keywords": "opamp dual low noise low distortion",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4898-2/",
+  "part_path": "parts/ADA4898-2",
+  "symbol_file": "parts/ADA4898-2/ADA4898-2.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:25.314Z"
+}

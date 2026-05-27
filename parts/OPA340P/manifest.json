@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA340P:OPA340P",
+  "name": "OPA340P",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA340P.kicad_sym",
+  "description": "Single Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, DIP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa340.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "MCP601-xP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA340P/",
+  "part_path": "parts/OPA340P",
+  "symbol_file": "parts/OPA340P/OPA340P.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:12.542Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM13700:LM13700",
+  "name": "LM13700",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM13700.kicad_sym",
+  "description": "Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers, DIP-16/SOIC-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm13700.pdf",
+  "keywords": "operational transconductance amplifier OTA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM13700/",
+  "part_path": "parts/LM13700",
+  "symbol_file": "parts/LM13700/LM13700.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:51.911Z"
+}

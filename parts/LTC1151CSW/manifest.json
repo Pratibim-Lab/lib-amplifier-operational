@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC1151CSW:LTC1151CSW",
+  "name": "LTC1151CSW",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC1151CSW.kicad_sym",
+  "description": "Dual ±15V, Zero-Drift, Operational Amplifier, SOIC-16W",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1151fa.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC1151CSW/",
+  "part_path": "parts/LTC1151CSW",
+  "symbol_file": "parts/LTC1151CSW/LTC1151CSW.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:56.870Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4625-2ARDZ:ADA4625-2ARDZ",
+  "name": "ADA4625-2ARDZ",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4625-2ARDZ.kicad_sym",
+  "description": "Dual 5V..36V/±2.5V..±18V supply, 18 MHz, 48V/µs slew rate, ±80 µV offset, RRO, Fast-settling JFET Op Amp, SOIC-8-1EP",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4625-1-4625-2.pdf",
+  "keywords": "analog-devices adi operational amplifier",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
+  "extends": "ADA4898-2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4625-2ARDZ/",
+  "part_path": "parts/ADA4625-2ARDZ",
+  "symbol_file": "parts/ADA4625-2ARDZ/ADA4625-2ARDZ.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:05.789Z"
+}

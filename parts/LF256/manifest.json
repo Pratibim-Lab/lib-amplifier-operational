@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LF256:LF256",
+  "name": "LF256",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LF256.kicad_sym",
+  "description": "Single JFET Input Operational Amplifiers, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lf357.pdf",
+  "keywords": "single jfet opamp",
+  "footprint": "",
+  "extends": "LM741",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LF256/",
+  "part_path": "parts/LF256",
+  "symbol_file": "parts/LF256/LF256.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:40.177Z"
+}

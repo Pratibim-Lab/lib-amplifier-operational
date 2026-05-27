@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA196xDGK:OPA196xDGK",
+  "name": "OPA196xDGK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA196xDGK.kicad_sym",
+  "description": "Single, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa4196.pdf",
+  "keywords": "single opamp rtor",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "OPA197xDGK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA196xDGK/",
+  "part_path": "parts/OPA196xDGK",
+  "symbol_file": "parts/OPA196xDGK/OPA196xDGK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:23.279Z"
+}

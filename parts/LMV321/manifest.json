@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMV321:LMV321",
+  "name": "LMV321",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMV321.kicad_sym",
+  "description": "Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOT-23-5/SC-70-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmv324.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMV321/",
+  "part_path": "parts/LMV321",
+  "symbol_file": "parts/LMV321/LMV321.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:37.680Z"
+}

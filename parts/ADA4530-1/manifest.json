@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4530-1:ADA4530-1",
+  "name": "ADA4530-1",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4530-1.kicad_sym",
+  "description": "Femtoampere Input Bias Current Electrometer Amplifier, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4530-1.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4530-1/",
+  "part_path": "parts/ADA4530-1",
+  "symbol_file": "parts/ADA4530-1/ADA4530-1.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:53.044Z"
+}

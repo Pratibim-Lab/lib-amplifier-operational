@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM4562:LM4562",
+  "name": "LM4562",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM4562.kicad_sym",
+  "description": "Dual High-Performance, High-Fidelity Audio Operational Amplifier, DIP-8/SOIC-8/TO-99-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm4562.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM4562/",
+  "part_path": "parts/LM4562",
+  "symbol_file": "parts/LM4562/LM4562.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:09.566Z"
+}

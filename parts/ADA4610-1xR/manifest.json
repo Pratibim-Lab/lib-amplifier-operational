@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4610-1xR:ADA4610-1xR",
+  "name": "ADA4610-1xR",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4610-1xR.kicad_sym",
+  "description": "Low Noise, Precision, Rail-to-Rail Output, JFET Single Op Amp, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4610-1_4610-2_4610-4.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4610-1xR/",
+  "part_path": "parts/ADA4610-1xR",
+  "symbol_file": "parts/ADA4610-1xR/ADA4610-1xR.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:54.517Z"
+}

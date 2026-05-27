@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM741:LM741",
+  "name": "LM741",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM741.kicad_sym",
+  "description": "Operational Amplifier, DIP-8/TO-99-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm741.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM741/",
+  "part_path": "parts/LM741",
+  "symbol_file": "parts/LM741/LM741.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:21.968Z"
+}

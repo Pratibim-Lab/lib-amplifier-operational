@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4807-2ACP:ADA4807-2ACP",
+  "name": "ADA4807-2ACP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4807-2ACP.kicad_sym",
+  "description": "Dual Rail-to-Rail Input/Output Amplifiers, with disable, SC-70-6/SOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_CSP:LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4807-2ACP/",
+  "part_path": "parts/ADA4807-2ACP",
+  "symbol_file": "parts/ADA4807-2ACP/ADA4807-2ACP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:15.118Z"
+}

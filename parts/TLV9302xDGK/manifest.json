@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9302xDGK:TLV9302xDGK",
+  "name": "TLV9302xDGK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9302xDGK.kicad_sym",
+  "description": "40-V, 1-MHz, RRO Operational Amplifiers for Cost-Sensitive Systems, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv9302.pdf",
+  "keywords": "dual opamp 40V rail to rail output",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9302xDGK/",
+  "part_path": "parts/TLV9302xDGK",
+  "symbol_file": "parts/TLV9302xDGK/TLV9302xDGK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:09.936Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OP77:OP77",
+  "name": "OP77",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OP77.kicad_sym",
+  "description": "Next Generation OP07 Ultralow Offset Voltage Operational Amplifier, DIP-8/TO-99-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/OP77.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "OP07",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OP77/",
+  "part_path": "parts/OP77",
+  "symbol_file": "parts/OP77/OP77.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:54.928Z"
+}

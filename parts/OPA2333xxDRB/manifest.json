@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2333xxDRB:OPA2333xxDRB",
+  "name": "OPA2333xxDRB",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2333xxDRB.kicad_sym",
+  "description": "Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa333.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_SON:Texas_S-PVSON-N8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2333xxDRB/",
+  "part_path": "parts/OPA2333xxDRB",
+  "symbol_file": "parts/OPA2333xxDRB/OPA2333xxDRB.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:39.654Z"
+}

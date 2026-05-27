@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA1662D:OPA1662D",
+  "name": "OPA1662D",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA1662D.kicad_sym",
+  "description": "Dual Low-Power, Low-Noise, Low-Distortion, Bipolar-Input SoundPlus Audio Operational Amplifiers, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa1662.pdf",
+  "keywords": "dual opamp operational-amplifier",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA1656ID",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA1662D/",
+  "part_path": "parts/OPA1662D",
+  "symbol_file": "parts/OPA1662D/OPA1662D.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:08.854Z"
+}

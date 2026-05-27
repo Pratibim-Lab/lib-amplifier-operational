@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM324:LM324",
+  "name": "LM324",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM324.kicad_sym",
+  "description": "Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM324/",
+  "part_path": "parts/LM324",
+  "symbol_file": "parts/LM324/LM324.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:02.918Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA1662DGK:OPA1662DGK",
+  "name": "OPA1662DGK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA1662DGK.kicad_sym",
+  "description": "Dual Low-Power, Low-Noise, Low-Distortion, Bipolar-Input SoundPlus Audio Operational Amplifiers, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa1662.pdf",
+  "keywords": "dual opamp operational-amplifier",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "OPA1662D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA1662DGK/",
+  "part_path": "parts/OPA1662DGK",
+  "symbol_file": "parts/OPA1662DGK/OPA1662DGK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:10.117Z"
+}

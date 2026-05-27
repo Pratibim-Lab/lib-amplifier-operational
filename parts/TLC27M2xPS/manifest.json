@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLC27M2xPS:TLC27M2xPS",
+  "name": "TLC27M2xPS",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLC27M2xPS.kicad_sym",
+  "description": "LinCMOS Precision Dual Operational Amplifiers, VIO_max = 10mV (at 25°C), VDD = 3..16V (C suffix) / VDD = 4..16V (I / M suffix), 525kHz unity-gain bandwidth (VDD = 5V, TA = 25°C), SOIC-8 (208 mil)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlc27m2.pdf",
+  "keywords": "opamp operational-amplifier",
+  "footprint": "Package_SO:SOIC-8_5.3x6.2mm_P1.27mm",
+  "extends": "TLC27M2xD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLC27M2xPS/",
+  "part_path": "parts/TLC27M2xPS",
+  "symbol_file": "parts/TLC27M2xPS/TLC27M2xPS.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:27.569Z"
+}

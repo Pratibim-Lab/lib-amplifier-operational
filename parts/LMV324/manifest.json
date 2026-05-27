@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMV324:LMV324",
+  "name": "LMV324",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMV324.kicad_sym",
+  "description": "Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmv324.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMV324/",
+  "part_path": "parts/LMV324",
+  "symbol_file": "parts/LMV324/LMV324.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:38.787Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6L04-xST:MCP6L04-xST",
+  "name": "MCP6L04-xST",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6L04-xST.kicad_sym",
+  "description": "Quad, 1 MHz, 85µA, Rail-to-Rail input and output, TSSOP-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf",
+  "keywords": "opamp vfa r2r rtr",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "OPA4197xPW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6L04-xST/",
+  "part_path": "parts/MCP6L04-xST",
+  "symbol_file": "parts/MCP6L04-xST/MCP6L04-xST.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:09.064Z"
+}

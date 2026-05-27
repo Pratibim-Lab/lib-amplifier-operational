@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA340UA:OPA340UA",
+  "name": "OPA340UA",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA340UA.kicad_sym",
+  "description": "Single Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa340.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA340UA/",
+  "part_path": "parts/OPA340UA",
+  "symbol_file": "parts/OPA340UA/OPA340UA.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:13.585Z"
+}

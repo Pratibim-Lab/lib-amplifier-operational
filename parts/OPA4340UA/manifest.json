@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA4340UA:OPA4340UA",
+  "name": "OPA4340UA",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA4340UA.kicad_sym",
+  "description": "Quad Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOIC-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa340.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA4340UA/",
+  "part_path": "parts/OPA4340UA",
+  "symbol_file": "parts/OPA4340UA/OPA4340UA.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:30.502Z"
+}

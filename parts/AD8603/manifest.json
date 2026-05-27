@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8603:AD8603",
+  "name": "AD8603",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8603.kicad_sym",
+  "description": "Precision Micropower, Low Noise CMOS, Rail-to-Rail Input/Output Operational Amplifier, TSOT-23-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8603_8607_8609.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8603/",
+  "part_path": "parts/AD8603",
+  "symbol_file": "parts/AD8603/AD8603.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:28.661Z"
+}

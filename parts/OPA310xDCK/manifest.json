@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA310xDCK:OPA310xDCK",
+  "name": "OPA310xDCK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA310xDCK.kicad_sym",
+  "description": "High output current, Rail-to-Rail Input/Output, 3MHz GBW, Operational Amplifiers, integrated RFI/EMI filter, 1.5V to 5.5V supply, SC-70-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa2310.pdf",
+  "keywords": "single opamp rrio",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "LMV321",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA310xDCK/",
+  "part_path": "parts/OPA310xDCK",
+  "symbol_file": "parts/OPA310xDCK/OPA310xDCK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:00.150Z"
+}

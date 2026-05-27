@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6226xDC:LTC6226xDC",
+  "name": "LTC6226xDC",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6226xDC.kicad_sym",
+  "description": "420MHz GBW, 180V/μs, 1nV/√Hz, RRO, 95μV max offset, 2.8..11.75V OpAmp with shutdown, WDFN-6 (WSON-6)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc6226-6227.pdf",
+  "keywords": "single operational amplifier Linear-Technology Analog-Devices Low-Distortion Rail-to-Rail-Output",
+  "footprint": "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.5mm_EP0.6x1.37mm",
+  "extends": "LTC6228xDC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6226xDC/",
+  "part_path": "parts/LTC6226xDC",
+  "symbol_file": "parts/LTC6226xDC/LTC6226xDC.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:04.279Z"
+}

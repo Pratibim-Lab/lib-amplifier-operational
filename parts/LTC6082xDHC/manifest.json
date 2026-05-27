@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6082xDHC:LTC6082xDHC",
+  "name": "LTC6082xDHC",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6082xDHC.kicad_sym",
+  "description": "Precision Quad CMOS Rail-to-Rail Input/Output Amplifiers, DFN-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf",
+  "keywords": "quad opamp",
+  "footprint": "Package_DFN_QFN:DFN-16-1EP_3x5mm_P0.5mm_EP1.66x4.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6082xDHC/",
+  "part_path": "parts/LTC6082xDHC",
+  "symbol_file": "parts/LTC6082xDHC/LTC6082xDHC.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:02.186Z"
+}

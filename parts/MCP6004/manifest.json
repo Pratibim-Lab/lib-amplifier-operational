@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6004:MCP6004",
+  "name": "MCP6004",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6004.kicad_sym",
+  "description": "1MHz, Low-Power Op Amp, DIP-14/SOIC-14/TSSOP-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6004/",
+  "part_path": "parts/MCP6004",
+  "symbol_file": "parts/MCP6004/MCP6004.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:42.255Z"
+}

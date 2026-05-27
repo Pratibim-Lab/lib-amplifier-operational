@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP601-xST:MCP601-xST",
+  "name": "MCP601-xST",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP601-xST.kicad_sym",
+  "description": "Single 2.7V to 6.0V Single Supply CMOS Op Amps, TSSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:TSSOP-8_4.4x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP601-xST/",
+  "part_path": "parts/MCP601-xST",
+  "symbol_file": "parts/MCP601-xST/MCP601-xST.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:46.917Z"
+}

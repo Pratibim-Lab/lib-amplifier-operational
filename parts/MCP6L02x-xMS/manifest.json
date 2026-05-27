@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6L02x-xMS:MCP6L02x-xMS",
+  "name": "MCP6L02x-xMS",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6L02x-xMS.kicad_sym",
+  "description": "Dual, 1 MHz, 85µA, Rail-to-Rail input and output, MSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf",
+  "keywords": "opamp vfa r2r rtr",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "NCS2325DM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6L02x-xMS/",
+  "part_path": "parts/MCP6L02x-xMS",
+  "symbol_file": "parts/MCP6L02x-xMS/MCP6L02x-xMS.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:06.904Z"
+}

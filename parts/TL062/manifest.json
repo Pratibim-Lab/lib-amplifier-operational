@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TL062:TL062",
+  "name": "TL062",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TL062.kicad_sym",
+  "description": "Dual Low-Power JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tl061.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TL062/",
+  "part_path": "parts/TL062",
+  "symbol_file": "parts/TL062/TL062.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:12.983Z"
+}

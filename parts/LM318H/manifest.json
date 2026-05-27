@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM318H:LM318H",
+  "name": "LM318H",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM318H.kicad_sym",
+  "description": "Operational Amplifier, TO-99-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm318-n.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "LM318M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM318H/",
+  "part_path": "parts/LM318H",
+  "symbol_file": "parts/LM318H/LM318H.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:57.271Z"
+}

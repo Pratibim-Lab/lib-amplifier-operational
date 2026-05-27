@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM7332:LM7332",
+  "name": "LM7332",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM7332.kicad_sym",
+  "description": "Dual Rail-to-Rail Input and Output 30-V, Wide Voltage Range, High Output, Operational Amplifier, SOIC-8/SSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm7332.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM7332/",
+  "part_path": "parts/LM7332",
+  "symbol_file": "parts/LM7332/LM7332.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:20.759Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6229xMS8E:LTC6229xMS8E",
+  "name": "LTC6229xMS8E",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6229xMS8E.kicad_sym",
+  "description": "Low Distortion Rail-to-Rail Output Op Amps with Shutdown, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6228-6229.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6229xMS8E/",
+  "part_path": "parts/LTC6229xMS8E",
+  "symbol_file": "parts/LTC6229xMS8E/LTC6229xMS8E.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:09.777Z"
+}

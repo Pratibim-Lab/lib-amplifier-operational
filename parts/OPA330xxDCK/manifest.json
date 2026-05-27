@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA330xxDCK:OPA330xxDCK",
+  "name": "OPA330xxDCK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA330xxDCK.kicad_sym",
+  "description": "50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SC70",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa330.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "LMV321",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA330xxDCK/",
+  "part_path": "parts/OPA330xxDCK",
+  "symbol_file": "parts/OPA330xxDCK/OPA330xxDCK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:03.170Z"
+}

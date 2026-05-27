@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8620xRM:AD8620xRM",
+  "name": "AD8620xRM",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8620xRM.kicad_sym",
+  "description": "Dual Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8610_8620.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8620xRM/",
+  "part_path": "parts/AD8620xRM",
+  "symbol_file": "parts/AD8620xRM/AD8620xRM.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:35.777Z"
+}

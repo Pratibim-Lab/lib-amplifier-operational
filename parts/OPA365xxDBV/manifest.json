@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA365xxDBV:OPA365xxDBV",
+  "name": "OPA365xxDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA365xxDBV.kicad_sym",
+  "description": "50-MHz, Zero-Crossover, Low-Distortion, High CMRR, RRI/O, Single-Supply, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa365.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA365xxDBV/",
+  "part_path": "parts/OPA365xxDBV",
+  "symbol_file": "parts/OPA365xxDBV/OPA365xxDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:19.085Z"
+}

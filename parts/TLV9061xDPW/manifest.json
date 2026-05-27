@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9061xDPW:TLV9061xDPW",
+  "name": "TLV9061xDPW",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9061xDPW.kicad_sym",
+  "description": "10-MHz, RRIO, CMOS Operational Amplifiers for Cost-Sensitive Systems, X2SON",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv9061.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SON:Texas_X2SON-5_0.8x0.8mm_P0.48mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9061xDPW/",
+  "part_path": "parts/TLV9061xDPW",
+  "symbol_file": "parts/TLV9061xDPW/TLV9061xDPW.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:58.080Z"
+}

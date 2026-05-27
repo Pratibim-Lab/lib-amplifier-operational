@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6228xS8:LTC6228xS8",
+  "name": "LTC6228xS8",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6228xS8.kicad_sym",
+  "description": "Low Distortion Rail-to-Rail Output Op Amp with Shutdown, SO-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6228-6229.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SO-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6228xS8/",
+  "part_path": "parts/LTC6228xS8",
+  "symbol_file": "parts/LTC6228xS8/LTC6228xS8.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:07.527Z"
+}

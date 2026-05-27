@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TS881xCx:TS881xCx",
+  "name": "TS881xCx",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TS881xCx.kicad_sym",
+  "description": "Rail-to-rail 0.9V nanopower comparator, SC-70-5",
+  "datasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/a2/60/3e/5d/b2/c1/4a/e9/DM00057901.pdf/files/DM00057901.pdf/jcr:content/translations/en.DM00057901.pdf",
+  "keywords": "single comparator",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "MCP6001x-LT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TS881xCx/",
+  "part_path": "parts/TS881xCx",
+  "symbol_file": "parts/TS881xCx/TS881xCx.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:14.330Z"
+}

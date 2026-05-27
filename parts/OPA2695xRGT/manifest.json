@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2695xRGT:OPA2695xRGT",
+  "name": "OPA2695xRGT",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2695xRGT.kicad_sym",
+  "description": "Dual, Ultra-Wideband, Current-Feedback Operational Amplifier with Disable, QFN-16",
+  "datasheet": "http://www.ti.com/lit/ds/sbos354a/sbos354a.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2695xRGT/",
+  "part_path": "parts/OPA2695xRGT",
+  "symbol_file": "parts/OPA2695xRGT/OPA2695xRGT.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:51.974Z"
+}

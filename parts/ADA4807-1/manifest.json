@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4807-1:ADA4807-1",
+  "name": "ADA4807-1",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4807-1.kicad_sym",
+  "description": "Single Rail-to-Rail Input/Output Amplifiers, with disable, SC-70-6/SOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4807-1/",
+  "part_path": "parts/ADA4807-1",
+  "symbol_file": "parts/ADA4807-1/ADA4807-1.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:13.969Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4622-2xCP:ADA4622-2xCP",
+  "name": "ADA4622-2xCP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4622-2xCP.kicad_sym",
+  "description": "Analog Devices Dual 30V, 8MHz, Low Bias Current, Single Supply, RRO, Precision Op Amp, LFCSP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ada4622-1-4622-2-4622-4.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_CSP:LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4622-2xCP/",
+  "part_path": "parts/ADA4622-2xCP",
+  "symbol_file": "parts/ADA4622-2xCP/ADA4622-2xCP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:02.443Z"
+}

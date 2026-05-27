@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/THS4226DGQ:THS4226DGQ",
+  "name": "THS4226DGQ",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/THS4226DGQ.kicad_sym",
+  "description": "120MHz GBW, Low-Distortion High-Speed Rail-to-Rail Output with Shutdown, HVSSOP-10",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ths4226.pdf",
+  "keywords": "dual operational amplifier enable",
+  "footprint": "Package_SO:HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/THS4226DGQ/",
+  "part_path": "parts/THS4226DGQ",
+  "symbol_file": "parts/THS4226DGQ/THS4226DGQ.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:07.041Z"
+}

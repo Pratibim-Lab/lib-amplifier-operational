@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TL084:TL084",
+  "name": "TL084",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TL084.kicad_sym",
+  "description": "Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tl081.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TL084/",
+  "part_path": "parts/TL084",
+  "symbol_file": "parts/TL084/TL084.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:21.124Z"
+}

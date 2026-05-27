@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV365DBV:TLV365DBV",
+  "name": "TLV365DBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV365DBV.kicad_sym",
+  "description": "50 MHz, 27V/us, ±0.4mV offset, 2.2..5.5V supply, 4.5 nV/√Hz noise, zero crossover RRIO Opamp, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv365.pdf",
+  "keywords": "operational amplifier texas single rail-to-rail",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV365DBV/",
+  "part_path": "parts/TLV365DBV",
+  "symbol_file": "parts/TLV365DBV/TLV365DBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:48.533Z"
+}

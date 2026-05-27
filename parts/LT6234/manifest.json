@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LT6234:LT6234",
+  "name": "LT6234",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LT6234.kicad_sym",
+  "description": "Dual 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA, Operational Amplifier, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LT6234/",
+  "part_path": "parts/LT6234",
+  "symbol_file": "parts/LT6234/LT6234.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:53.650Z"
+}

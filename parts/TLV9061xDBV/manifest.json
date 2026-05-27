@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9061xDBV:TLV9061xDBV",
+  "name": "TLV9061xDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9061xDBV.kicad_sym",
+  "description": "10-MHz, RRIO, CMOS Operational Amplifiers for Cost-Sensitive Systems, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv9061.pdf",
+  "keywords": "single opamp rail to rail input output",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9061xDBV/",
+  "part_path": "parts/TLV9061xDBV",
+  "symbol_file": "parts/TLV9061xDBV/TLV9061xDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:55.367Z"
+}

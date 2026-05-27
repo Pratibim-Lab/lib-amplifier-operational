@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA197xDBV:OPA197xDBV",
+  "name": "OPA197xDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA197xDBV.kicad_sym",
+  "description": "Single 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOT-23",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa197.pdf",
+  "keywords": "single opamp rtor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA197xDBV/",
+  "part_path": "parts/OPA197xDBV",
+  "symbol_file": "parts/OPA197xDBV/OPA197xDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:25.391Z"
+}

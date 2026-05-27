@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9001IDCK:TLV9001IDCK",
+  "name": "TLV9001IDCK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9001IDCK.kicad_sym",
+  "description": "Low-power, Rail-to-Rail, 1MHz Operational Amplifier, SOT-353",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv9001.pdf",
+  "keywords": "op amp operational amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "TLV172IDCK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9001IDCK/",
+  "part_path": "parts/TLV9001IDCK",
+  "symbol_file": "parts/TLV9001IDCK/TLV9001IDCK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:50.801Z"
+}

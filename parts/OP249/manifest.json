@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OP249:OP249",
+  "name": "OP249",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OP249.kicad_sym",
+  "description": "Precision JFET, High Speed, Dual Operational Amplifier, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/OP249.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OP249/",
+  "part_path": "parts/OP249",
+  "symbol_file": "parts/OP249/OP249.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:50.180Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA330xxDBV:OPA330xxDBV",
+  "name": "OPA330xxDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA330xxDBV.kicad_sym",
+  "description": "50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SOT",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa330.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA330xxDBV/",
+  "part_path": "parts/OPA330xxDBV",
+  "symbol_file": "parts/OPA330xxDBV/OPA330xxDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:02.124Z"
+}

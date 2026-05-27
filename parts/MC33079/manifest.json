@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MC33079:MC33079",
+  "name": "MC33079",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MC33079.kicad_sym",
+  "description": "Low Noise, Quad Operational Amplifiers, DIP-14/SOIC-14",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MC33078-D.PDF",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MC33079/",
+  "part_path": "parts/MC33079",
+  "symbol_file": "parts/MC33079/MC33079.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:26.744Z"
+}

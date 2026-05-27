@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8655:AD8655",
+  "name": "AD8655",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8655.kicad_sym",
+  "description": "Single Low Noise, Precision CMOS Amplifier",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad8655_8656.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "LM741",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8655/",
+  "part_path": "parts/AD8655",
+  "symbol_file": "parts/AD8655/AD8655.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:36.900Z"
+}

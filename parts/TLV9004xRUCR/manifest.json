@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9004xRUCR:TLV9004xRUCR",
+  "name": "TLV9004xRUCR",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9004xRUCR.kicad_sym",
+  "description": "Low-Power, Quad-Operational Amplifiers, Texas S-PX2QFN-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv9004.pdf",
+  "keywords": "quad opamp",
+  "footprint": "Package_DFN_QFN:Texas_S-PX2QFN-14",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9004xRUCR/",
+  "part_path": "parts/TLV9004xRUCR",
+  "symbol_file": "parts/TLV9004xRUCR/TLV9004xRUCR.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:51.863Z"
+}

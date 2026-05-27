@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM321:LM321",
+  "name": "LM321",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM321.kicad_sym",
+  "description": "Low Power Single Operational Amplifier, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm321.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM321/",
+  "part_path": "parts/LM321",
+  "symbol_file": "parts/LM321/LM321.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:01.853Z"
+}

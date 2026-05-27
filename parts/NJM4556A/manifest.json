@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/NJM4556A:NJM4556A",
+  "name": "NJM4556A",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/NJM4556A.kicad_sym",
+  "description": "Dual High Current Operational Amplifier, DIP-8/DMP-8/SIP-8/SSOP-8",
+  "datasheet": "http://www.njr.com/semicon/PDF/NJM4556A_E.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/NJM4556A/",
+  "part_path": "parts/NJM4556A",
+  "symbol_file": "parts/NJM4556A/NJM4556A.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:36.797Z"
+}

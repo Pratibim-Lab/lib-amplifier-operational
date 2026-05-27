@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6229xDD:LTC6229xDD",
+  "name": "LTC6229xDD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6229xDD.kicad_sym",
+  "description": "Low Distortion Rail-to-Rail Output Op Amps with Shutdown, DFN-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6228-6229.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6229xDD/",
+  "part_path": "parts/LTC6229xDD",
+  "symbol_file": "parts/LTC6229xDD/LTC6229xDD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:08.668Z"
+}

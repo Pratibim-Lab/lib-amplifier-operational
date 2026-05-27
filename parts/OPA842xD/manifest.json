@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA842xD:OPA842xD",
+  "name": "OPA842xD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA842xD.kicad_sym",
+  "description": "200MHz, Low Distortion, Unity-Gain Stable, Voltage Feedback Operational Amplifier, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa842.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA842xD/",
+  "part_path": "parts/OPA842xD",
+  "symbol_file": "parts/OPA842xD/OPA842xD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:45.580Z"
+}

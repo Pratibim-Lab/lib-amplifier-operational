@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9054xPW:TLV9054xPW",
+  "name": "TLV9054xPW",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9054xPW.kicad_sym",
+  "description": "Quad RRIO Operational Amplifiers, 15V/us slew rate, 33uVos, 5MHz GBW, TSSOP-14",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv9054.pdf",
+  "keywords": "texas opamp",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9054xPW/",
+  "part_path": "parts/TLV9054xPW",
+  "symbol_file": "parts/TLV9054xPW/TLV9054xPW.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:54.223Z"
+}

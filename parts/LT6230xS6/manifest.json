@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LT6230xS6:LT6230xS6",
+  "name": "LT6230xS6",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LT6230xS6.kicad_sym",
+  "description": "215 MHz, Rail-to-Rail Output, Amplifier, TSOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/623012fc.pdf",
+  "keywords": "opamp operational amplifier single",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LT6230xS6/",
+  "part_path": "parts/LT6230xS6",
+  "symbol_file": "parts/LT6230xS6/LT6230xS6.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:52.553Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM6171xxN:LM6171xxN",
+  "name": "LM6171xxN",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM6171xxN.kicad_sym",
+  "description": "Single High Speed Low Power Low Distortion Voltage Feedback Amplifier, DIP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm6171.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "MCP601-xP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM6171xxN/",
+  "part_path": "parts/LM6171xxN",
+  "symbol_file": "parts/LM6171xxN/LM6171xxN.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:14.083Z"
+}

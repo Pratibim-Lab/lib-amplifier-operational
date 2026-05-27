@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC1152:LTC1152",
+  "name": "LTC1152",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC1152.kicad_sym",
+  "description": "Rail-to-Rail Input, Rail-to-Rail Output, Zero-Drift Op Amp, DIP-8, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt1152.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC1152/",
+  "part_path": "parts/LTC1152",
+  "symbol_file": "parts/LTC1152/LTC1152.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:57.934Z"
+}

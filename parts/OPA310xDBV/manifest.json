@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA310xDBV:OPA310xDBV",
+  "name": "OPA310xDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA310xDBV.kicad_sym",
+  "description": "High output current, Rail-to-Rail Input/Output, 3MHz GBW, Operational Amplifiers, integrated RFI/EMI filter, 1.5V to 5.5V supply, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa2310.pdf",
+  "keywords": "single opamp rrio",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA310xDBV/",
+  "part_path": "parts/OPA310xDBV",
+  "symbol_file": "parts/OPA310xDBV/OPA310xDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:58.668Z"
+}

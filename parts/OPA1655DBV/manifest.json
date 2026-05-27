@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA1655DBV:OPA1655DBV",
+  "name": "OPA1655DBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA1655DBV.kicad_sym",
+  "description": "Single Ultra-Low-Noise, Low-Distortion, FET-Input, Burr-Brown Audio Operational Amplifiers, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa1655.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA1655DBV/",
+  "part_path": "parts/OPA1655DBV",
+  "symbol_file": "parts/OPA1655DBV/OPA1655DBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:06.670Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9304xD:TLV9304xD",
+  "name": "TLV9304xD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9304xD.kicad_sym",
+  "description": "40-V, 1-MHz, RRO Operational Amplifiers for Cost-Sensitive Systems, SOIC-14",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv9304.pdf",
+  "keywords": "quad opamp 40V rail to rail output",
+  "footprint": "Package_SO:SO-14_3.9x8.65mm_P1.27mm",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9304xD/",
+  "part_path": "parts/TLV9304xD",
+  "symbol_file": "parts/TLV9304xD/TLV9304xD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:12.253Z"
+}

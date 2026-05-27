@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA1692xDGK:OPA1692xDGK",
+  "name": "OPA1692xDGK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA1692xDGK.kicad_sym",
+  "description": "Dual SoundPlus Low Power, Low Noise & Low Distortion Audio Operational Amplifiers, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa1692.pdf",
+  "keywords": "VFA opamp",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "OPA2197xDGK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA1692xDGK/",
+  "part_path": "parts/OPA1692xDGK",
+  "symbol_file": "parts/OPA1692xDGK/OPA1692xDGK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:17.139Z"
+}

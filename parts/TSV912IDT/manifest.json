@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TSV912IDT:TSV912IDT",
+  "name": "TSV912IDT",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TSV912IDT.kicad_sym",
+  "description": "Dual rail-to-rail input/output 8 MHz operational amplifiers, SOIC-8",
+  "datasheet": "www.st.com/resource/en/datasheet/tsv911.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TSV912IDT/",
+  "part_path": "parts/TSV912IDT",
+  "symbol_file": "parts/TSV912IDT/TSV912IDT.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:22.327Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA1656ID:OPA1656ID",
+  "name": "OPA1656ID",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA1656ID.kicad_sym",
+  "description": "Dual Ultra-Low-Noise, Low-Distortion, FET-Input, Burr-Brown Audio Operational Amplifiers, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa1656.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA1656ID/",
+  "part_path": "parts/OPA1656ID",
+  "symbol_file": "parts/OPA1656ID/OPA1656ID.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:07.714Z"
+}

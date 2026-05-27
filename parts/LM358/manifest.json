@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM358:LM358",
+  "name": "LM358",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM358.kicad_sym",
+  "description": "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM358/",
+  "part_path": "parts/LM358",
+  "symbol_file": "parts/LM358/LM358.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:07.249Z"
+}

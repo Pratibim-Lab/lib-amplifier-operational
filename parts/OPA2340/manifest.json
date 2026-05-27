@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2340:OPA2340",
+  "name": "OPA2340",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2340.kicad_sym",
+  "description": "Dual Single-Supply, Rail-to-Rail Operational Amplifiers, MicroAmplifier Series, DIP-8/SOIC-8/SSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa4340.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2340/",
+  "part_path": "parts/OPA2340",
+  "symbol_file": "parts/OPA2340/OPA2340.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:40.837Z"
+}

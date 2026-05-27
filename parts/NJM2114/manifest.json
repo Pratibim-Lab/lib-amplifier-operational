@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/NJM2114:NJM2114",
+  "name": "NJM2114",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/NJM2114.kicad_sym",
+  "description": "Dual High Performance Low Noise Operational Amplifier, DIP-8/DMP-8/SIP-8",
+  "datasheet": "http://www.njr.com/semicon/PDF/NJM2114_E.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/NJM2114/",
+  "part_path": "parts/NJM2114",
+  "symbol_file": "parts/NJM2114/NJM2114.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:35.563Z"
+}

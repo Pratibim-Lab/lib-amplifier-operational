@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4610-1xRJ:ADA4610-1xRJ",
+  "name": "ADA4610-1xRJ",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4610-1xRJ.kicad_sym",
+  "description": "Low Noise, Precision, Rail-to-Rail Output, JFET Single Op Amp, SOT-23-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4610-1_4610-2_4610-4.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4610-1xRJ/",
+  "part_path": "parts/ADA4610-1xRJ",
+  "symbol_file": "parts/ADA4610-1xRJ/ADA4610-1xRJ.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:55.585Z"
+}

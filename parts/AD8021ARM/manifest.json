@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8021ARM:AD8021ARM",
+  "name": "AD8021ARM",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8021ARM.kicad_sym",
+  "description": "Operational Amplifier, 4.5-24V single/dual supply, low noise, high speed, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8021.pdf",
+  "keywords": "Opamp",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "AD8021AR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8021ARM/",
+  "part_path": "parts/AD8021ARM",
+  "symbol_file": "parts/AD8021ARM/AD8021ARM.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:26.254Z"
+}

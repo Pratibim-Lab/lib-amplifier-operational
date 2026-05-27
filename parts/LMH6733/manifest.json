@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMH6733:LMH6733",
+  "name": "LMH6733",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMH6733.kicad_sym",
+  "description": "1.0 GHz GBW Triple Operational Amplifier, 3..12V single supply or ±1.5V...6V dual supply , SSOP-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lmh6733.pdf",
+  "keywords": "opamp rf hf ",
+  "footprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMH6733/",
+  "part_path": "parts/LMH6733",
+  "symbol_file": "parts/LMH6733/LMH6733.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:36.651Z"
+}

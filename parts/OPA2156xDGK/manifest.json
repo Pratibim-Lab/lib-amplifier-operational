@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2156xDGK:OPA2156xDGK",
+  "name": "OPA2156xDGK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2156xDGK.kicad_sym",
+  "description": "Dual 36V, Ultra Low Noise, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa2156.pdf",
+  "keywords": "dual opamp low-noise r2r",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "OPA2197xDGK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2156xDGK/",
+  "part_path": "parts/OPA2156xDGK",
+  "symbol_file": "parts/OPA2156xDGK/OPA2156xDGK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:29.772Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA188xxDBV:OPA188xxDBV",
+  "name": "OPA188xxDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA188xxDBV.kicad_sym",
+  "description": "Zero-Drift, Precision, Low-Noise, Rail-to-Rail Output, 36-V Operational Amplifier, TSOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa188.pdf",
+  "keywords": "single opamp zero-drift",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "AD8603",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA188xxDBV/",
+  "part_path": "parts/OPA188xxDBV",
+  "symbol_file": "parts/OPA188xxDBV/OPA188xxDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:19.605Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TL074:TL074",
+  "name": "TL074",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TL074.kicad_sym",
+  "description": "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tl071.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TL074/",
+  "part_path": "parts/TL074",
+  "symbol_file": "parts/TL074/TL074.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:17.604Z"
+}

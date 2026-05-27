@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM7171xIN:LM7171xIN",
+  "name": "LM7171xIN",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM7171xIN.kicad_sym",
+  "description": "Single Very High Speed High Output Current Voltage Feedback Amplifier, DIP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm7171.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM7171xIN/",
+  "part_path": "parts/LM7171xIN",
+  "symbol_file": "parts/LM7171xIN/LM7171xIN.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:19.709Z"
+}

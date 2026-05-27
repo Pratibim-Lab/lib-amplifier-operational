@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2604AP:OPA2604AP",
+  "name": "OPA2604AP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2604AP.kicad_sym",
+  "description": "Dual FET-Input, Low-Distortion Operational Amplifier, DIP-8",
+  "datasheet": "https://pdf1.alldatasheetcn.com/datasheet-pdf/view/785955/TI1/OPA2604AP.html",
+  "keywords": "dual opamp fet-input",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "NE5532",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2604AP/",
+  "part_path": "parts/OPA2604AP",
+  "symbol_file": "parts/OPA2604AP/OPA2604AP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:47.357Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV2371D:TLV2371D",
+  "name": "TLV2371D",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV2371D.kicad_sym",
+  "description": "Rail-to-Rail Input/Output Operational Amplifier, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv2375.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV2371D/",
+  "part_path": "parts/TLV2371D",
+  "symbol_file": "parts/TLV2371D/TLV2371D.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:43.266Z"
+}

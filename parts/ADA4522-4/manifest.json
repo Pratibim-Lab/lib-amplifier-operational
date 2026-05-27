@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4522-4:ADA4522-4",
+  "name": "ADA4522-4",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4522-4.kicad_sym",
+  "description": "55 V supply, 5uV max Vos, 3MHz GBW, EMI Enhanced, Zero Drift, 5.8 nV/√Hz, RRO quad operational amplifiers",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ada4522-1_4522-2_4522-4.pdf",
+  "keywords": "analog-devices opamp chopper",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4522-4/",
+  "part_path": "parts/ADA4522-4",
+  "symbol_file": "parts/ADA4522-4/ADA4522-4.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:51.988Z"
+}

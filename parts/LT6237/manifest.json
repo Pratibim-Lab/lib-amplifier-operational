@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LT6237:LT6237",
+  "name": "LT6237",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LT6237.kicad_sym",
+  "description": "Dual 215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA, Operational Amplifier, MSOP-8/DFN-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/623637fb.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LT6237/",
+  "part_path": "parts/LT6237",
+  "symbol_file": "parts/LT6237/LT6237.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:54.809Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OP1177ARM:OP1177ARM",
+  "name": "OP1177ARM",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OP1177ARM.kicad_sym",
+  "description": "Precision Low Noise, Low Input Bias Current Operational Amplifier, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/OP1177_2177_4177.pdf",
+  "keywords": "single operational amplifier",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OP1177ARM/",
+  "part_path": "parts/OP1177ARM",
+  "symbol_file": "parts/OP1177ARM/OP1177ARM.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:46.747Z"
+}

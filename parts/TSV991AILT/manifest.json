@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TSV991AILT:TSV991AILT",
+  "name": "TSV991AILT",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TSV991AILT.kicad_sym",
+  "description": "20MHz GBW, RRIO, 2.5..5.5V supply, 820uA single OpAmp, SOT-23-5",
+  "datasheet": "www.st.com/resource/en/datasheet/tsv991.pdf",
+  "keywords": "low-power micropower st",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TSV991AILT/",
+  "part_path": "parts/TSV991AILT",
+  "symbol_file": "parts/TSV991AILT/TSV991AILT.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:26.766Z"
+}

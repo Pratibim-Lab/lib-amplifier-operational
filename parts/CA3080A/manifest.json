@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/CA3080A:CA3080A",
+  "name": "CA3080A",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/CA3080A.kicad_sym",
+  "description": "2MHz, Operational Transconductance Amplifier (OTA), gM spread 1.6:1, DIP-8/SOIC-8",
+  "datasheet": "http://www.intersil.com/content/dam/Intersil/documents/ca30/ca3080-a.pdf",
+  "keywords": "operational transconductance amplifier ota",
+  "footprint": "",
+  "extends": "CA3080",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/CA3080A/",
+  "part_path": "parts/CA3080A",
+  "symbol_file": "parts/CA3080A/CA3080A.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:30.180Z"
+}

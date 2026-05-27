@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/NJM4558:NJM4558",
+  "name": "NJM4558",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/NJM4558.kicad_sym",
+  "description": "Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8",
+  "datasheet": "http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/NJM4558/",
+  "part_path": "parts/NJM4558",
+  "symbol_file": "parts/NJM4558/NJM4558.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:38.234Z"
+}

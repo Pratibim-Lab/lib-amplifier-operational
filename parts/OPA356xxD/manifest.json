@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA356xxD:OPA356xxD",
+  "name": "OPA356xxD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA356xxD.kicad_sym",
+  "description": "Single High Speed CMOS Operational Amplifier, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa356.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA356xxD/",
+  "part_path": "parts/OPA356xxD",
+  "symbol_file": "parts/OPA356xxD/OPA356xxD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:15.713Z"
+}

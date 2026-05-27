@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLE2141ACP:TLE2141ACP",
+  "name": "TLE2141ACP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLE2141ACP.kicad_sym",
+  "description": "Operational Amplifier, 500 uV offset voltage, 0-70°C, PDIP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tle2141a.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "LM741",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLE2141ACP/",
+  "part_path": "parts/TLE2141ACP",
+  "symbol_file": "parts/TLE2141ACP/TLE2141ACP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:33.232Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6362xDD:LTC6362xDD",
+  "name": "LTC6362xDD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6362xDD.kicad_sym",
+  "description": "Precision, Low Power, Rail-to-Rail Input/Output, Differential Op Amp/SAR ADC Driver, DFN-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/6362fa.pdf",
+  "keywords": "single differential opamp",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6362xDD/",
+  "part_path": "parts/LTC6362xDD",
+  "symbol_file": "parts/LTC6362xDD/LTC6362xDD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:16.507Z"
+}

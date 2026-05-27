@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV172IDCK:TLV172IDCK",
+  "name": "TLV172IDCK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV172IDCK.kicad_sym",
+  "description": "Low-power Operational Amplifier, SOT-353",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv172.pdf",
+  "keywords": "op amp operational amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV172IDCK/",
+  "part_path": "parts/TLV172IDCK",
+  "symbol_file": "parts/TLV172IDCK/TLV172IDCK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:42.208Z"
+}

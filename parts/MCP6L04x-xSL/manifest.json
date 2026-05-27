@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6L04x-xSL:MCP6L04x-xSL",
+  "name": "MCP6L04x-xSL",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6L04x-xSL.kicad_sym",
+  "description": "Quad, 1 MHz, 85µA, Rail-to-Rail input and output, SOIC-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf",
+  "keywords": "opamp vfa r2r rtr",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "OPA4197xD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6L04x-xSL/",
+  "part_path": "parts/MCP6L04x-xSL",
+  "symbol_file": "parts/MCP6L04x-xSL/MCP6L04x-xSL.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:10.218Z"
+}

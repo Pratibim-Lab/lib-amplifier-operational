@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA4376:OPA4376",
+  "name": "OPA4376",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA4376.kicad_sym",
+  "description": "Quad Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SC-70-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa376.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA4376/",
+  "part_path": "parts/OPA4376",
+  "symbol_file": "parts/OPA4376/OPA4376.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:31.669Z"
+}

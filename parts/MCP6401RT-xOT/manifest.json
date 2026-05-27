@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6401RT-xOT:MCP6401RT-xOT",
+  "name": "MCP6401RT-xOT",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6401RT-xOT.kicad_sym",
+  "description": "1 MHz, 45 µA Op Amps, SOT-23-5",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/22229d.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6001R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6401RT-xOT/",
+  "part_path": "parts/MCP6401RT-xOT",
+  "symbol_file": "parts/MCP6401RT-xOT/MCP6401RT-xOT.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:57.553Z"
+}

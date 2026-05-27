@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC1151CN8:LTC1151CN8",
+  "name": "LTC1151CN8",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC1151CN8.kicad_sym",
+  "description": "Dual ±15V, Zero-Drift, Operational Amplifier, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1151fa.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC1151CN8/",
+  "part_path": "parts/LTC1151CN8",
+  "symbol_file": "parts/LTC1151CN8/LTC1151CN8.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:55.910Z"
+}

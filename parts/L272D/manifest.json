@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/L272D:L272D",
+  "name": "L272D",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/L272D.kicad_sym",
+  "description": "Dual Power Operation Amplifier, SOIC-16",
+  "datasheet": "www.st.com/resource/en/datasheet/l272.pdf",
+  "keywords": "dual power opamp",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/L272D/",
+  "part_path": "parts/L272D",
+  "symbol_file": "parts/L272D/L272D.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:35.677Z"
+}

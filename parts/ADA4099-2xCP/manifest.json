@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4099-2xCP:ADA4099-2xCP",
+  "name": "ADA4099-2xCP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4099-2xCP.kicad_sym",
+  "description": "3.15..50V supply, 8MHz GBW, Rail-to-Rail input/output, over-the-top dual opamp with shutdown, LFCSP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ada4099-1_ada4099-2.pdf",
+  "keywords": "operational amplifier analog-devices high-voltage rrio enable",
+  "footprint": "Package_CSP:LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4099-2xCP/",
+  "part_path": "parts/ADA4099-2xCP",
+  "symbol_file": "parts/ADA4099-2xCP/ADA4099-2xCP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:46.118Z"
+}

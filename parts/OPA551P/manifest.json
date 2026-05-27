@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA551P:OPA551P",
+  "name": "OPA551P",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA551P.kicad_sym",
+  "description": "High-Voltage High-Current Operational Amplifier, bandwidth 3MHz, slew-rate 15V/us, DIP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa551.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA551P/",
+  "part_path": "parts/OPA551P",
+  "symbol_file": "parts/OPA551P/OPA551P.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:32.784Z"
+}

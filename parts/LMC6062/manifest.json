@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMC6062:LMC6062",
+  "name": "LMC6062",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMC6062.kicad_sym",
+  "description": "Precision CMOS Dual Micropower Operational Amplifier, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmc6062.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMC6062/",
+  "part_path": "parts/LMC6062",
+  "symbol_file": "parts/LMC6062/LMC6062.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:24.292Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6L01x-xOT:MCP6L01x-xOT",
+  "name": "MCP6L01x-xOT",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6L01x-xOT.kicad_sym",
+  "description": "Single, 1 MHz, 85µA, Rail-to-Rail input and output, SOT-23-5",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf",
+  "keywords": "opamp vfa rtr r2r",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6L01x-xOT/",
+  "part_path": "parts/MCP6L01x-xOT",
+  "symbol_file": "parts/MCP6L01x-xOT/MCP6L01x-xOT.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:05.665Z"
+}

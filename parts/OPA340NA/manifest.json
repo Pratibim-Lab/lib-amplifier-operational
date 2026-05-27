@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA340NA:OPA340NA",
+  "name": "OPA340NA",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA340NA.kicad_sym",
+  "description": "Single Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa340.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA340NA/",
+  "part_path": "parts/OPA340NA",
+  "symbol_file": "parts/OPA340NA/OPA340NA.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:11.479Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM6172:LM6172",
+  "name": "LM6172",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM6172.kicad_sym",
+  "description": "Dual High Speed, Low Power, Low Distortion, Voltage Feedback Amplifiers, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm6172.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM6172/",
+  "part_path": "parts/LM6172",
+  "symbol_file": "parts/LM6172/LM6172.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:15.160Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM7171xIM:LM7171xIM",
+  "name": "LM7171xIM",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM7171xIM.kicad_sym",
+  "description": "Single Very High Speed High Output Current Voltage Feedback Amplifier, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm7171.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM7171xIM/",
+  "part_path": "parts/LM7171xIM",
+  "symbol_file": "parts/LM7171xIM/LM7171xIM.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:18.587Z"
+}

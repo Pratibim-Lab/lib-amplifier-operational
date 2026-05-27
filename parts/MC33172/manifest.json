@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MC33172:MC33172",
+  "name": "MC33172",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MC33172.kicad_sym",
+  "description": "Dual Single Supply 3.0V to 44V, Low Power Operational Amplifiers, DIP-8/SOIC-8",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/MC33171-D.PDF",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MC33172/",
+  "part_path": "parts/MC33172",
+  "symbol_file": "parts/MC33172/MC33172.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:27.754Z"
+}

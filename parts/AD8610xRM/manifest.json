@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8610xRM:AD8610xRM",
+  "name": "AD8610xRM",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8610xRM.kicad_sym",
+  "description": "Single Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8610_8620.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LM741",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8610xRM/",
+  "part_path": "parts/AD8610xRM",
+  "symbol_file": "parts/AD8610xRM/AD8610xRM.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:33.455Z"
+}

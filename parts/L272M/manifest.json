@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/L272M:L272M",
+  "name": "L272M",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/L272M.kicad_sym",
+  "description": "Dual Power Operation Amplifier, DIP-8",
+  "datasheet": "www.st.com/resource/en/datasheet/l272.pdf",
+  "keywords": "dual power opamp",
+  "footprint": "Package_DIP:DIP-8_W7.62mm_LongPads",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/L272M/",
+  "part_path": "parts/L272M",
+  "symbol_file": "parts/L272M/L272M.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:36.683Z"
+}

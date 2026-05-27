@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA1655D:OPA1655D",
+  "name": "OPA1655D",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA1655D.kicad_sym",
+  "description": "Single Ultra-Low-Noise, Low-Distortion, FET-Input, Burr-Brown Audio Operational Amplifiers, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa1655.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA1655D/",
+  "part_path": "parts/OPA1655D",
+  "symbol_file": "parts/OPA1655D/OPA1655D.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:05.492Z"
+}

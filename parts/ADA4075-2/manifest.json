@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4075-2:ADA4075-2",
+  "name": "ADA4075-2",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4075-2.kicad_sym",
+  "description": "Ultralow Noise Amplifier at Lower Power, SOIC-8/LFCSP-8",
+  "datasheet": "https://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf",
+  "keywords": "dual low-power opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4075-2/",
+  "part_path": "parts/ADA4075-2",
+  "symbol_file": "parts/ADA4075-2/ADA4075-2.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:40.561Z"
+}

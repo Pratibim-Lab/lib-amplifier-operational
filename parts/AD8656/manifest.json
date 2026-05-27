@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8656:AD8656",
+  "name": "AD8656",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8656.kicad_sym",
+  "description": "Dual Low Noise, Precision CMOS Amplifier",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad8655_8656.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8656/",
+  "part_path": "parts/AD8656",
+  "symbol_file": "parts/AD8656/AD8656.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:38.095Z"
+}

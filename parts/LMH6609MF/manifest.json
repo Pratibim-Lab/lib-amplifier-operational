@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMH6609MF:LMH6609MF",
+  "name": "LMH6609MF",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMH6609MF.kicad_sym",
+  "description": "900MHz Voltage Feedback Op Amp, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmh6609.pdf",
+  "keywords": "opamp single wideband unity-gain stable",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMH6609MF/",
+  "part_path": "parts/LMH6609MF",
+  "symbol_file": "parts/LMH6609MF/LMH6609MF.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:32.167Z"
+}

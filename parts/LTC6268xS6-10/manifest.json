@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6268xS6-10:LTC6268xS6-10",
+  "name": "LTC6268xS6-10",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6268xS6-10.kicad_sym",
+  "description": "500Mhz, Ultra-Low Bias Current, FET Input, Op Amp, TSOT-23",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/626810f.pdf",
+  "keywords": "single opamp transimpedance",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6268xS6-10/",
+  "part_path": "parts/LTC6268xS6-10",
+  "symbol_file": "parts/LTC6268xS6-10/LTC6268xS6-10.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:11.985Z"
+}

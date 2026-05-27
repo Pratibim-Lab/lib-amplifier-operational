@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMH6609MA:LMH6609MA",
+  "name": "LMH6609MA",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMH6609MA.kicad_sym",
+  "description": "900MHz Voltage Feedback Op Amp, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmh6609.pdf",
+  "keywords": "opamp single wideband unity-gain stable",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMH6609MA/",
+  "part_path": "parts/LMH6609MA",
+  "symbol_file": "parts/LMH6609MA/LMH6609MA.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:31.063Z"
+}

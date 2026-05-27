@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LPV812DGK:LPV812DGK",
+  "name": "LPV812DGK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LPV812DGK.kicad_sym",
+  "description": "Dual operational amplifier, 8kHz GBW, 425 nA/channel quiescent, 100 fA input bias, 300 uV offset max, 1 uV/C, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lpv812.pdf",
+  "keywords": "dual opamp low-power rail-to-rail",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "OPA2197xDGK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LPV812DGK/",
+  "part_path": "parts/LPV812DGK",
+  "symbol_file": "parts/LPV812DGK/LPV812DGK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:44.429Z"
+}

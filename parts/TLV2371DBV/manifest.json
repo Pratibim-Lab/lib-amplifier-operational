@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV2371DBV:TLV2371DBV",
+  "name": "TLV2371DBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV2371DBV.kicad_sym",
+  "description": "Rail-to-Rail Input/Output Operational Amplifier, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv2375.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV2371DBV/",
+  "part_path": "parts/TLV2371DBV",
+  "symbol_file": "parts/TLV2371DBV/TLV2371DBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:44.393Z"
+}

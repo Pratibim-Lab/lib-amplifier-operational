@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6269xMS8E:LTC6269xMS8E",
+  "name": "LTC6269xMS8E",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6269xMS8E.kicad_sym",
+  "description": "Dual 500MHz Ultra-Low Bias  Current FET Input Op Amps, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/62689f.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm",
+  "extends": "LTC6229xMS8E",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6269xMS8E/",
+  "part_path": "parts/LTC6269xMS8E",
+  "symbol_file": "parts/LTC6269xMS8E/LTC6269xMS8E.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:15.480Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA1692xD:OPA1692xD",
+  "name": "OPA1692xD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA1692xD.kicad_sym",
+  "description": "Dual SoundPlus Low Power, Low Noise & Low Distortion Audio Operational Amplifiers, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa1692.pdf",
+  "keywords": "VFA opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "NCS2325D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA1692xD/",
+  "part_path": "parts/OPA1692xD",
+  "symbol_file": "parts/OPA1692xD/OPA1692xD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:16.134Z"
+}

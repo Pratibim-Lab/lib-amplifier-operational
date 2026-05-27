@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA188xxD:OPA188xxD",
+  "name": "OPA188xxD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA188xxD.kicad_sym",
+  "description": "Precision, Low-Noise, Rail-to-Rail Output, 36-V, Zero-Drift Operational Amplifier, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa188.pdf",
+  "keywords": "single opamp zero-drift",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA188xxD/",
+  "part_path": "parts/OPA188xxD",
+  "symbol_file": "parts/OPA188xxD/OPA188xxD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:18.276Z"
+}

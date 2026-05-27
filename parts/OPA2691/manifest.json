@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2691:OPA2691",
+  "name": "OPA2691",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2691.kicad_sym",
+  "description": "Dual Wideband, Current-Feedback Operational Amplifier, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/sbos224d/sbos224d.pdf",
+  "keywords": "dual current feedback opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2691/",
+  "part_path": "parts/OPA2691",
+  "symbol_file": "parts/OPA2691/OPA2691.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:49.744Z"
+}

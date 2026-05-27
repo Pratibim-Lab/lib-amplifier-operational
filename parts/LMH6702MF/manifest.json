@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMH6702MF:LMH6702MF",
+  "name": "LMH6702MF",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMH6702MF.kicad_sym",
+  "description": "1.7 GHz Ultra-Low Distortion Wideband Op Amp, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmh6702.pdf",
+  "keywords": "opamp single low distortion wideband",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMH6702MF/",
+  "part_path": "parts/LMH6702MF",
+  "symbol_file": "parts/LMH6702MF/LMH6702MF.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:35.540Z"
+}

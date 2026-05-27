@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4099-1xUJ:ADA4099-1xUJ",
+  "name": "ADA4099-1xUJ",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4099-1xUJ.kicad_sym",
+  "description": "3.15..50V supply, 8MHz GBW, Rail-to-Rail input/output, over-the-top opamp with shutdown, TSOT-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ada4099-1_ada4099-2.pdf",
+  "keywords": "single operational amplifier analog-devices high-voltage rrio",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4099-1xUJ/",
+  "part_path": "parts/ADA4099-1xUJ",
+  "symbol_file": "parts/ADA4099-1xUJ/ADA4099-1xUJ.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:45.051Z"
+}

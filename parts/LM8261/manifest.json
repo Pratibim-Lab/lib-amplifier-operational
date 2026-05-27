@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM8261:LM8261",
+  "name": "LM8261",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM8261.kicad_sym",
+  "description": "Single Opamp, Rail-to-Rail Input/Output, Unlimited Capacitive Load Drive, +53mA/-75mA Output Current, 2.5-30V, 350uV offset, 12MHz GBW, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm8261.pdf",
+  "keywords": "RRIO CapLoad gate driver",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM8261/",
+  "part_path": "parts/LM8261",
+  "symbol_file": "parts/LM8261/LM8261.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:23.002Z"
+}

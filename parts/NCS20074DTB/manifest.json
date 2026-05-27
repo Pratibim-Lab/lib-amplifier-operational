@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/NCS20074DTB:NCS20074DTB",
+  "name": "NCS20074DTB",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/NCS20074DTB.kicad_sym",
+  "description": "Quad, 2.8V/µs, Rail-to-Rail Output, TSSOP-14",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF",
+  "keywords": "quad rail-to-rail output opamp vfa",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/NCS20074DTB/",
+  "part_path": "parts/NCS20074DTB",
+  "symbol_file": "parts/NCS20074DTB/NCS20074DTB.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:26.134Z"
+}

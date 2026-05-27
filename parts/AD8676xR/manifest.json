@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8676xR:AD8676xR",
+  "name": "AD8676xR",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8676xR.kicad_sym",
+  "description": "Dual operational amplifier, Ultra-precision, 36V, Rail-to-rail output, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8676.pdf",
+  "keywords": "dual opamp precision high-voltage RRO RTR",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "NCS2325D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8676xR/",
+  "part_path": "parts/AD8676xR",
+  "symbol_file": "parts/AD8676xR/AD8676xR.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:39.363Z"
+}

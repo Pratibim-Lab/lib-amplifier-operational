@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2196xD:OPA2196xD",
+  "name": "OPA2196xD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2196xD.kicad_sym",
+  "description": "Dual, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa4196.pdf",
+  "keywords": "dual opamp low-power",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "NCS2325D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2196xD/",
+  "part_path": "parts/OPA2196xD",
+  "symbol_file": "parts/OPA2196xD/OPA2196xD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:30.971Z"
+}

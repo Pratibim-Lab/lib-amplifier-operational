@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD817:AD817",
+  "name": "AD817",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD817.kicad_sym",
+  "description": "High Speed, Low Power Wide Supply Range Operational Amplifier, DIP-8/SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad817.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD817/",
+  "part_path": "parts/AD817",
+  "symbol_file": "parts/AD817/AD817.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:27.464Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMC6484:LMC6484",
+  "name": "LMC6484",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMC6484.kicad_sym",
+  "description": "Quad CMOS Rail-to-Rail Input and Output Operational Amplifier, DIP-14/SOIC-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmc6484.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMC6484/",
+  "part_path": "parts/LMC6484",
+  "symbol_file": "parts/LMC6484/LMC6484.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:27.513Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA858xDSG:OPA858xDSG",
+  "name": "OPA858xDSG",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA858xDSG.kicad_sym",
+  "description": "5.5-GHz Gain Bandwidth Product, Gain of 7 V/V Stable, FET Input Amplifier, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa858.pdf",
+  "keywords": "opamp VFA",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA858xDSG/",
+  "part_path": "parts/OPA858xDSG",
+  "symbol_file": "parts/OPA858xDSG/OPA858xDSG.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:55.754Z"
+}

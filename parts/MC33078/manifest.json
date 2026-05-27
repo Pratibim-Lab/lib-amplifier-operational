@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MC33078:MC33078",
+  "name": "MC33078",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MC33078.kicad_sym",
+  "description": "Low Noise, Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MC33078-D.PDF",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MC33078/",
+  "part_path": "parts/MC33078",
+  "symbol_file": "parts/MC33078/MC33078.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:25.482Z"
+}

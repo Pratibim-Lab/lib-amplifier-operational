@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4898-1YRDZ:ADA4898-1YRDZ",
+  "name": "ADA4898-1YRDZ",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4898-1YRDZ.kicad_sym",
+  "description": "High Voltage, Low Noise, Low Distortion, Unity-Gain Stable, High Speed Op Amp, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf",
+  "keywords": "opamp single low noise low distortion",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4898-1YRDZ/",
+  "part_path": "parts/ADA4898-1YRDZ",
+  "symbol_file": "parts/ADA4898-1YRDZ/ADA4898-1YRDZ.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:24.191Z"
+}

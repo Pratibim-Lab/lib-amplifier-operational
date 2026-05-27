@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/NE5534:NE5534",
+  "name": "NE5534",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/NE5534.kicad_sym",
+  "description": "Single Low-Noise Operational Amplifiers, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ne5534.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/NE5534/",
+  "part_path": "parts/NE5534",
+  "symbol_file": "parts/NE5534/NE5534.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:33.377Z"
+}

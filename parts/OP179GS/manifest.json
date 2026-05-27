@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OP179GS:OP179GS",
+  "name": "OP179GS",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OP179GS.kicad_sym",
+  "description": "Single Rail-to-Rail High Output Current Operational Amplifiers, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/OP179_279.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OP179GS/",
+  "part_path": "parts/OP179GS",
+  "symbol_file": "parts/OP179GS/OP179GS.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:49.052Z"
+}

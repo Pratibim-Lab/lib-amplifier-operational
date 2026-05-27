@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2333xxD:OPA2333xxD",
+  "name": "OPA2333xxD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2333xxD.kicad_sym",
+  "description": "Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa333.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2333xxD/",
+  "part_path": "parts/OPA2333xxD",
+  "symbol_file": "parts/OPA2333xxD/OPA2333xxD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:37.411Z"
+}

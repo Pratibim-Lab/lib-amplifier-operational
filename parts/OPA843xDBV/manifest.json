@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA843xDBV:OPA843xDBV",
+  "name": "OPA843xDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA843xDBV.kicad_sym",
+  "description": "800MHz, Wideband, Low Distortion, Medium Gain, Voltage-Feedback Operational Amplifier, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa843.pdf",
+  "keywords": "single opamp low distortion",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA843xDBV/",
+  "part_path": "parts/OPA843xDBV",
+  "symbol_file": "parts/OPA843xDBV/OPA843xDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:48.804Z"
+}

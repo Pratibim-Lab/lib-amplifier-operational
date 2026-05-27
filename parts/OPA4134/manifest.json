@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA4134:OPA4134",
+  "name": "OPA4134",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA4134.kicad_sym",
+  "description": "Quad SoundPlus High Performance Audio Operational Amplifiers, SOIC-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa134.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA4134/",
+  "part_path": "parts/OPA4134",
+  "symbol_file": "parts/OPA4134/OPA4134.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:23.942Z"
+}

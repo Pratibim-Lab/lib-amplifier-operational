@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2376xxYZD:OPA2376xxYZD",
+  "name": "OPA2376xxYZD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2376xxYZD.kicad_sym",
+  "description": "Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, DSBGA-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa376.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_BGA:Texas_DSBGA-8_0.9x1.9mm_Layout2x4_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2376xxYZD/",
+  "part_path": "parts/OPA2376xxYZD",
+  "symbol_file": "parts/OPA2376xxYZD/OPA2376xxYZD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:46.152Z"
+}

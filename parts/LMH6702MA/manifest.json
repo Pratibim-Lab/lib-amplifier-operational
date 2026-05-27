@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMH6702MA:LMH6702MA",
+  "name": "LMH6702MA",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMH6702MA.kicad_sym",
+  "description": "1.7 GHz Ultra-Low Distortion Wideband Op Amp, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmh6702.pdf",
+  "keywords": "opamp single low distortion wideband",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMH6702MA/",
+  "part_path": "parts/LMH6702MA",
+  "symbol_file": "parts/LMH6702MA/LMH6702MA.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:34.455Z"
+}

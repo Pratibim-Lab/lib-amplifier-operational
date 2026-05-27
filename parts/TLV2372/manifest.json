@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV2372:TLV2372",
+  "name": "TLV2372",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV2372.kicad_sym",
+  "description": "Dual Rail-to-Rail Input/Output Operational Amplifier, DIP-8/SOIC-8/VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv2375.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV2372/",
+  "part_path": "parts/TLV2372",
+  "symbol_file": "parts/TLV2372/TLV2372.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:46.363Z"
+}

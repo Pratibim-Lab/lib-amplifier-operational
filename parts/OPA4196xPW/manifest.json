@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA4196xPW:OPA4196xPW",
+  "name": "OPA4196xPW",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA4196xPW.kicad_sym",
+  "description": "Quad, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, TSSOP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa4196.pdf",
+  "keywords": "quad opamp rtor",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "OPA4197xPW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA4196xPW/",
+  "part_path": "parts/OPA4196xPW",
+  "symbol_file": "parts/OPA4196xPW/OPA4196xPW.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:26.034Z"
+}

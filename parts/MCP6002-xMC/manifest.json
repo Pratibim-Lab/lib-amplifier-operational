@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6002-xMC:MCP6002-xMC",
+  "name": "MCP6002-xMC",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6002-xMC.kicad_sym",
+  "description": "1MHz, Low-Power Op Amp, DFN-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6002-xMC/",
+  "part_path": "parts/MCP6002-xMC",
+  "symbol_file": "parts/MCP6002-xMC/MCP6002-xMC.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:37.077Z"
+}

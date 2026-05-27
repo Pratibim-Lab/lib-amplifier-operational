@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6001U:MCP6001U",
+  "name": "MCP6001U",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6001U.kicad_sym",
+  "description": "1MHz, Low-Power Op Amp, SOT-23-5",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "LMV321",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6001U/",
+  "part_path": "parts/MCP6001U",
+  "symbol_file": "parts/MCP6001U/MCP6001U.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:34.890Z"
+}

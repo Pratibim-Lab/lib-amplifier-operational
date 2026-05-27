@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OP1177AR:OP1177AR",
+  "name": "OP1177AR",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OP1177AR.kicad_sym",
+  "description": "Precision Low Noise, Low Input Bias Current Operational Amplifier, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/OP1177_2177_4177.pdf",
+  "keywords": "single operational amplifier",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OP1177AR/",
+  "part_path": "parts/OP1177AR",
+  "symbol_file": "parts/OP1177AR/OP1177AR.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:45.494Z"
+}

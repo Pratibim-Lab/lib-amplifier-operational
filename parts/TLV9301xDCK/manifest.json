@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9301xDCK:TLV9301xDCK",
+  "name": "TLV9301xDCK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9301xDCK.kicad_sym",
+  "description": "40-V, 1-MHz, RRO Operational Amplifiers for Cost-Sensitive Systems, SC-70",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv9301.pdf",
+  "keywords": "op amp operational amplifier 40V rail to rail output",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "TLV172IDCK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9301xDCK/",
+  "part_path": "parts/TLV9301xDCK",
+  "symbol_file": "parts/TLV9301xDCK/TLV9301xDCK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:06.329Z"
+}

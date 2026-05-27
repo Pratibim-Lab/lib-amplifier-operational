@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/NCS20071XV:NCS20071XV",
+  "name": "NCS20071XV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/NCS20071XV.kicad_sym",
+  "description": "Single, 2.8V/µs, Rail-to-Rail Output, SOT-553",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF",
+  "keywords": "OpAmp Rail-to-rail Output Single vfa",
+  "footprint": "Package_TO_SOT_SMD:SOT-553",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/NCS20071XV/",
+  "part_path": "parts/NCS20071XV",
+  "symbol_file": "parts/NCS20071XV/NCS20071XV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:19.834Z"
+}

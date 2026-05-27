@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AS13704:AS13704",
+  "name": "AS13704",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AS13704.kicad_sym",
+  "description": "Quad Operational Transconductance Amplifiers (OTA), with linearizing diodes, SSOP24",
+  "datasheet": "http://www.alfarzpp.lv/eng/sc/AS13704.pdf",
+  "keywords": "operational transconductance amplifier OTA",
+  "footprint": "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AS13704/",
+  "part_path": "parts/AS13704",
+  "symbol_file": "parts/AS13704/AS13704.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:27.691Z"
+}

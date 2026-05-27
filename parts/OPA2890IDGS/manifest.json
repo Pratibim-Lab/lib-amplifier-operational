@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2890IDGS:OPA2890IDGS",
+  "name": "OPA2890IDGS",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2890IDGS.kicad_sym",
+  "description": "Low-Power, Wideband, Voltage-Feedback Operational Amplifier with Disable, TSSOP-10 (Texas DGS0010A / VSSOP)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa2890.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_SO:TSSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2890IDGS/",
+  "part_path": "parts/OPA2890IDGS",
+  "symbol_file": "parts/OPA2890IDGS/OPA2890IDGS.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:54.291Z"
+}

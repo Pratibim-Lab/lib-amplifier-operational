@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LMH6551MM:LMH6551MM",
+  "name": "LMH6551MM",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LMH6551MM.kicad_sym",
+  "description": "Differential, High-Speed, Op Amp, VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmh6551.pdf",
+  "keywords": "differential opamp operational amplifier",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LMH6551MM/",
+  "part_path": "parts/LMH6551MM",
+  "symbol_file": "parts/LMH6551MM/LMH6551MM.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:29.854Z"
+}

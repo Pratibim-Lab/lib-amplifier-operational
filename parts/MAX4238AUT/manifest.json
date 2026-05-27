@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MAX4238AUT:MAX4238AUT",
+  "name": "MAX4238AUT",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MAX4238AUT.kicad_sym",
+  "description": "Ultra-Low Offset/Drift, Low-Noise, Precision Amplifiers, SOT-23-6",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/MAX4238-MAX4239.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MAX4238AUT/",
+  "part_path": "parts/MAX4238AUT",
+  "symbol_file": "parts/MAX4238AUT/MAX4238AUT.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:19.688Z"
+}

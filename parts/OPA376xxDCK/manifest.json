@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA376xxDCK:OPA376xxDCK",
+  "name": "OPA376xxDCK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA376xxDCK.kicad_sym",
+  "description": "Single Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SC-70-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa376.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "LMV321",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA376xxDCK/",
+  "part_path": "parts/OPA376xxDCK",
+  "symbol_file": "parts/OPA376xxDCK/OPA376xxDCK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:22.734Z"
+}

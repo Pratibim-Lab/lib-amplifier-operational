@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9064:TLV9064",
+  "name": "TLV9064",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9064.kicad_sym",
+  "description": "Quad Rail-to-Rail, Operational Amplifiers, 10MHz, SOIC-14/TSSOP-14",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv9064.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9064/",
+  "part_path": "parts/TLV9064",
+  "symbol_file": "parts/TLV9064/TLV9064.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:02.535Z"
+}

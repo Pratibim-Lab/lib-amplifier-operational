@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TSV524xIQ4T:TSV524xIQ4T",
+  "name": "TSV524xIQ4T",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TSV524xIQ4T.kicad_sym",
+  "description": "Quad CMOS Rail-to-Rail Input/Output Amplifier, 1.15MHz GBP, QFN-16",
+  "datasheet": "https://www.st.com/resource/en/datasheet/tsv521.pdf",
+  "keywords": "quad operational-amplifier opamp",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TSV524xIQ4T/",
+  "part_path": "parts/TSV524xIQ4T",
+  "symbol_file": "parts/TSV524xIQ4T/TSV524xIQ4T.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:17.792Z"
+}

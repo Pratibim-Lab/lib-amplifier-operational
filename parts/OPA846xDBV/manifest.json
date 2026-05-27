@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA846xDBV:OPA846xDBV",
+  "name": "OPA846xDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA846xDBV.kicad_sym",
+  "description": "1750MHz, Wideband, Low-Noise, Voltage Feedback Operational Amplifier, SOT23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa846.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA846xDBV/",
+  "part_path": "parts/OPA846xDBV",
+  "symbol_file": "parts/OPA846xDBV/OPA846xDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:50.941Z"
+}

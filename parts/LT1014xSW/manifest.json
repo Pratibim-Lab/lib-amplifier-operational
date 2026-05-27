@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LT1014xSW:LT1014xSW",
+  "name": "LT1014xSW",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LT1014xSW.kicad_sym",
+  "description": "Quad Precision Op-Amp, 150µV max offset voltage, SOIC-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt1013-lt1014.pdf",
+  "keywords": "Linear-Technology operational-amplifier",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "LTC6082xGN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LT1014xSW/",
+  "part_path": "parts/LT1014xSW",
+  "symbol_file": "parts/LT1014xSW/LT1014xSW.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:46.568Z"
+}

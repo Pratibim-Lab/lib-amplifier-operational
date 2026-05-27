@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA810xDBV:OPA810xDBV",
+  "name": "OPA810xDBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA810xDBV.kicad_sym",
+  "description": "140-MHz, Rail-to-Rail Input and Output, FET-Input Operational Amplifier, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa810.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA810xDBV/",
+  "part_path": "parts/OPA810xDBV",
+  "symbol_file": "parts/OPA810xDBV/OPA810xDBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:42.219Z"
+}

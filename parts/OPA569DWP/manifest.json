@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA569DWP:OPA569DWP",
+  "name": "OPA569DWP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA569DWP.kicad_sym",
+  "description": "Rail-to-Rail I/O, 2A, Power Amplifier, SO-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa569.pdf",
+  "keywords": "opamp single high current",
+  "footprint": "Package_SO:SO-20-1EP_7.52x12.825mm_P1.27mm_EP6.045x12.09mm_Mask3.56x4.47mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA569DWP/",
+  "part_path": "parts/OPA569DWP",
+  "symbol_file": "parts/OPA569DWP/OPA569DWP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:37.953Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LPV811DBV:LPV811DBV",
+  "name": "LPV811DBV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LPV811DBV.kicad_sym",
+  "description": "Single operational amplifier, 8kHz GBW, 425 nA/channel quiescent, 100 fA input bias, 300 uV offset max, 1 uV/C, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lpv812.pdf",
+  "keywords": "single opamp low-power rail-to-rail",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP6L91T-EOT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LPV811DBV/",
+  "part_path": "parts/LPV811DBV",
+  "symbol_file": "parts/LPV811DBV/LPV811DBV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:43.407Z"
+}

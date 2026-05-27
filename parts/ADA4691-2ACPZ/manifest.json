@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4691-2ACPZ:ADA4691-2ACPZ",
+  "name": "ADA4691-2ACPZ",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4691-2ACPZ.kicad_sym",
+  "description": "Dual RRO Op Amp, 2.7V to 5V single supply / ±1.35V to ±2.5V dual supply, 3.6 MHz bandwidth, 1.1V/µs slew rate, 500µV offset, 2 shutdown pins, UQFN-10 (Analog Device LFCSP-10)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4691-2_4691-4_4692-2_4692-4.pdf",
+  "keywords": "Analog-Devices ADI operational-amplifier",
+  "footprint": "Package_CSP:LFCSP-10_2x2mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4691-2ACPZ/",
+  "part_path": "parts/ADA4691-2ACPZ",
+  "symbol_file": "parts/ADA4691-2ACPZ/ADA4691-2ACPZ.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:08.268Z"
+}

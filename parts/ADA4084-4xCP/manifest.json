@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4084-4xCP:ADA4084-4xCP",
+  "name": "ADA4084-4xCP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4084-4xCP.kicad_sym",
+  "description": "30V Quad Low Noise, Rail-to-Rail Input/Output, Low Power Operational Amplifier, LFCSP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4084-1_4084-2_4084-4.pdf",
+  "keywords": "quad opamp",
+  "footprint": "Package_CSP:LFCSP-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm",
+  "extends": "ADA4610-4xCP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4084-4xCP/",
+  "part_path": "parts/ADA4084-4xCP",
+  "symbol_file": "parts/ADA4084-4xCP/ADA4084-4xCP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:43.979Z"
+}

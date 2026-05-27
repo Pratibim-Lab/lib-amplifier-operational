@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/NE5532:NE5532",
+  "name": "NE5532",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/NE5532.kicad_sym",
+  "description": "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ne5532.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/NE5532/",
+  "part_path": "parts/NE5532",
+  "symbol_file": "parts/NE5532/NE5532.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:32.181Z"
+}

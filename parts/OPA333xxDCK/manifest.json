@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA333xxDCK:OPA333xxDCK",
+  "name": "OPA333xxDCK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA333xxDCK.kicad_sym",
+  "description": "Single 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SC-70-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa333.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "LMV321",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA333xxDCK/",
+  "part_path": "parts/OPA333xxDCK",
+  "symbol_file": "parts/OPA333xxDCK/OPA333xxDCK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:07.567Z"
+}

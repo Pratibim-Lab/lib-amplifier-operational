@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/HMC799LP3E:HMC799LP3E",
+  "name": "HMC799LP3E",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/HMC799LP3E.kicad_sym",
+  "description": "DC - 700 MHz, 10 kOhm Transimpedance amplifier, QFN-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/hmc799.pdf",
+  "keywords": "amplifier transimpedance",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/HMC799LP3E/",
+  "part_path": "parts/HMC799LP3E",
+  "symbol_file": "parts/HMC799LP3E/HMC799LP3E.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:33.604Z"
+}

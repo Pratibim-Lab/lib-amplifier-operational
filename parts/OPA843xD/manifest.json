@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA843xD:OPA843xD",
+  "name": "OPA843xD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA843xD.kicad_sym",
+  "description": "800MHz, Wideband, Low Distortion, Medium Gain, Voltage-Feedback Operational Amplifier, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa843.pdf",
+  "keywords": "single opamp low distortion",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA843xD/",
+  "part_path": "parts/OPA843xD",
+  "symbol_file": "parts/OPA843xD/OPA843xD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:47.723Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADL5303ACP:ADL5303ACP",
+  "name": "ADL5303ACP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADL5303ACP.kicad_sym",
+  "description": "160 dB range, 100pA to 10mA, Logarithmic Converter, integrated 2.0V reference, 3.0 .. 5.5V supply, WQFN-16 (Analog Devices LFCSP-16 / CP-16-22)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/adl5303.pdf",
+  "keywords": "LogAmp Logarithmic-Amplifier Log-Converter",
+  "footprint": "Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADL5303ACP/",
+  "part_path": "parts/ADL5303ACP",
+  "symbol_file": "parts/ADL5303ACP/ADL5303ACP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:26.474Z"
+}

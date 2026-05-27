@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6L01x-xLT:MCP6L01x-xLT",
+  "name": "MCP6L01x-xLT",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6L01x-xLT.kicad_sym",
+  "description": "Single, 1 MHz, Rail-to-Rail input and output, SC-70-5",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf",
+  "keywords": "opamp vfa r2r rtr",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "MCP6001x-LT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6L01x-xLT/",
+  "part_path": "parts/MCP6L01x-xLT",
+  "symbol_file": "parts/MCP6L01x-xLT/MCP6L01x-xLT.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:04.512Z"
+}

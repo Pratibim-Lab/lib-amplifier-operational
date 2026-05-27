@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/NCS20072DM:NCS20072DM",
+  "name": "NCS20072DM",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/NCS20072DM.kicad_sym",
+  "description": "Dual, 2.8V/µs, Rail-to-Rail Output, MSOP-8",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF",
+  "keywords": "dual rail-to-rail output opamp vfa",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "NCS2325DM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/NCS20072DM/",
+  "part_path": "parts/NCS20072DM",
+  "symbol_file": "parts/NCS20072DM/NCS20072DM.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:22.149Z"
+}

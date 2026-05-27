@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP603-xSN:MCP603-xSN",
+  "name": "MCP603-xSN",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP603-xSN.kicad_sym",
+  "description": "Single 2.7V to 6.0V Single Supply CMOS Op Amps, with Chip Select, SOIC-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "MCP603-xP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP603-xSN/",
+  "part_path": "parts/MCP603-xSN",
+  "symbol_file": "parts/MCP603-xSN/MCP603-xSN.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:54.097Z"
+}

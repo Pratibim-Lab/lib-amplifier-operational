@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6002-xMS:MCP6002-xMS",
+  "name": "MCP6002-xMS",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6002-xMS.kicad_sym",
+  "description": "1MHz, Low-Power Op Amp, MSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6002-xMS/",
+  "part_path": "parts/MCP6002-xMS",
+  "symbol_file": "parts/MCP6002-xMS/MCP6002-xMS.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:38.178Z"
+}

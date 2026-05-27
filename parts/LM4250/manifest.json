@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM4250:LM4250",
+  "name": "LM4250",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM4250.kicad_sym",
+  "description": "Programmable Operational Amplifier, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm4250.pdf",
+  "keywords": "Programmable opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM4250/",
+  "part_path": "parts/LM4250",
+  "symbol_file": "parts/LM4250/LM4250.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:08.432Z"
+}

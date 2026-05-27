@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM6361:LM6361",
+  "name": "LM6361",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM6361.kicad_sym",
+  "description": "Single High Speed Operational Amplifier, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm6161.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM6361/",
+  "part_path": "parts/LM6361",
+  "symbol_file": "parts/LM6361/LM6361.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:16.406Z"
+}

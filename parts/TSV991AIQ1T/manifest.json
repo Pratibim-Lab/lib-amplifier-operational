@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TSV991AIQ1T:TSV991AIQ1T",
+  "name": "TSV991AIQ1T",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TSV991AIQ1T.kicad_sym",
+  "description": "20MHz GBW, RRIO, 2.5..5.5V supply, 820uA single OpAmp, DFN-6",
+  "datasheet": "www.st.com/resource/en/datasheet/tsv991.pdf",
+  "keywords": "low-power micropower st",
+  "footprint": "Package_DFN_QFN:DFN-6_1.6x1.3mm_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TSV991AIQ1T/",
+  "part_path": "parts/TSV991AIQ1T",
+  "symbol_file": "parts/TSV991AIQ1T/TSV991AIQ1T.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:27.915Z"
+}

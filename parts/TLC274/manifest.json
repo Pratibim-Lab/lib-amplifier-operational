@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLC274:TLC274",
+  "name": "TLC274",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLC274.kicad_sym",
+  "description": "Quad LinCMOS Precision Quad Operational Amplifiers, DIP-14/SOIC-14/SSOP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlc274.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLC274/",
+  "part_path": "parts/TLC274",
+  "symbol_file": "parts/TLC274/TLC274.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:23.222Z"
+}

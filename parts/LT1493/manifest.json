@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LT1493:LT1493",
+  "name": "LT1493",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LT1493.kicad_sym",
+  "description": "5MHz, 3V/µs, Low Power, Single Supply, Quad Precision Op Amps, SOIC-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/14923f.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LTC6082xGN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LT1493/",
+  "part_path": "parts/LT1493",
+  "symbol_file": "parts/LT1493/LT1493.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:50.125Z"
+}

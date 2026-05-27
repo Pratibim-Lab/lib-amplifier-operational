@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/THS3491xDDA:THS3491xDDA",
+  "name": "THS3491xDDA",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/THS3491xDDA.kicad_sym",
+  "description": "900-MHz, 500-mA High-Power Output Current Feedback Operational Amplifier, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ths3491.pdf",
+  "keywords": "opamp single current feedback wideband",
+  "footprint": "Package_SO:Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/THS3491xDDA/",
+  "part_path": "parts/THS3491xDDA",
+  "symbol_file": "parts/THS3491xDDA/THS3491xDDA.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:05.840Z"
+}

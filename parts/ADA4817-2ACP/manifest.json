@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4817-2ACP:ADA4817-2ACP",
+  "name": "ADA4817-2ACP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4817-2ACP.kicad_sym",
+  "description": "Dual Low Noise, 1 GHz, Unity-gain stable, FastFET Op Amp, with power down, LFCSP-16-1EP",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4817-1_4817-2.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_CSP:Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.35x2.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4817-2ACP/",
+  "part_path": "parts/ADA4817-2ACP",
+  "symbol_file": "parts/ADA4817-2ACP/ADA4817-2ACP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:20.802Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA859xDSG:OPA859xDSG",
+  "name": "OPA859xDSG",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA859xDSG.kicad_sym",
+  "description": "1.8 GHz Unity-Gain Bandwidth FET Input Amplifier, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa859.pdf",
+  "keywords": "opamp VFA",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm",
+  "extends": "OPA858xDSG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA859xDSG/",
+  "part_path": "parts/OPA859xDSG",
+  "symbol_file": "parts/OPA859xDSG/OPA859xDSG.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:57.008Z"
+}

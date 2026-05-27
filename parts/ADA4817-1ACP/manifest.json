@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4817-1ACP:ADA4817-1ACP",
+  "name": "ADA4817-1ACP",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4817-1ACP.kicad_sym",
+  "description": "Single Low Noise, 1 GHz, Unity-gain stable, FastFET Op Amp, with power down, LFCSP-8-1EP",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4817-1_4817-2.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_CSP:LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4817-1ACP/",
+  "part_path": "parts/ADA4817-1ACP",
+  "symbol_file": "parts/ADA4817-1ACP/ADA4817-1ACP.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:18.550Z"
+}

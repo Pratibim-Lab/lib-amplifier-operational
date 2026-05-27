@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA310SxDCK:OPA310SxDCK",
+  "name": "OPA310SxDCK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA310SxDCK.kicad_sym",
+  "description": "Single Rail-to-Rail Input/Output Operational Amplifier with Shutdown, 1.5..5.5V supply, 3MHz GBW, 250uV offset voltage, 150mA output current,  SC-70-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/opa310.pdf",
+  "keywords": "single opamp ",
+  "footprint": "Package_TO_SOT_SMD:Texas_R-PDSO-G6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA310SxDCK/",
+  "part_path": "parts/OPA310SxDCK",
+  "symbol_file": "parts/OPA310SxDCK/OPA310SxDCK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:57.552Z"
+}

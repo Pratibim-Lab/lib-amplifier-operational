@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA134:OPA134",
+  "name": "OPA134",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA134.kicad_sym",
+  "description": "Single SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa134.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "OP07",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA134/",
+  "part_path": "parts/OPA134",
+  "symbol_file": "parts/OPA134/OPA134.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:59.728Z"
+}

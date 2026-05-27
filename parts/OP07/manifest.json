@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OP07:OP07",
+  "name": "OP07",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OP07.kicad_sym",
+  "description": "Single Ultra-Low Offset Voltage Operational Amplifier, DIP-8/SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/OP07.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OP07/",
+  "part_path": "parts/OP07",
+  "symbol_file": "parts/OP07/OP07.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:44.284Z"
+}

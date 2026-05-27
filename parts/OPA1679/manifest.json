@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA1679:OPA1679",
+  "name": "OPA1679",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA1679.kicad_sym",
+  "description": "Low-Distortion Audio Operational Amplifiers, SOIC-14/TSSOP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa1678.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA1679/",
+  "part_path": "parts/OPA1679",
+  "symbol_file": "parts/OPA1679/OPA1679.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:14.523Z"
+}

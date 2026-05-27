@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/ADA4692-2ARZ:ADA4692-2ARZ",
+  "name": "ADA4692-2ARZ",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/ADA4692-2ARZ.kicad_sym",
+  "description": "Dual RRO Op Amp, 2.7V to 5V single supply / ±1.35V to ±2.5V dual supply, 3.6 MHz bandwidth, 1.1V/µs slew rate, 500µV offset, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4691-2_4691-4_4692-2_4692-4.pdf",
+  "keywords": "Analog-Devices ADI operational-amplifier",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/ADA4692-2ARZ/",
+  "part_path": "parts/ADA4692-2ARZ",
+  "symbol_file": "parts/ADA4692-2ARZ/ADA4692-2ARZ.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:11.483Z"
+}

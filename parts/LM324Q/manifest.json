@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM324Q:LM324Q",
+  "name": "LM324Q",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM324Q.kicad_sym",
+  "description": "Low-Power, Quad-Operational Amplifiers, QFN-16",
+  "datasheet": "https://www.st.com/resource/en/datasheet/lm224a.pdf",
+  "keywords": "quad opamp",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm",
+  "extends": "TSV524xIQ4T",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM324Q/",
+  "part_path": "parts/LM324Q",
+  "symbol_file": "parts/LM324Q/LM324Q.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:05.093Z"
+}

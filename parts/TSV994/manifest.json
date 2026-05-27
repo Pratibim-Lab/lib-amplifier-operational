@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TSV994:TSV994",
+  "name": "TSV994",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TSV994.kicad_sym",
+  "description": "Quad Rail-to-rail, 20 MHz GBP, operational amplifiers, SOIC-14/TSSOP-14",
+  "datasheet": "https://www.st.com/resource/en/datasheet/tsv994.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TSV994/",
+  "part_path": "parts/TSV994",
+  "symbol_file": "parts/TSV994/TSV994.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:14:28.982Z"
+}

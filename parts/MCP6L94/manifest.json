@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6L94:MCP6L94",
+  "name": "MCP6L94",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6L94.kicad_sym",
+  "description": "10 MHz, 850 µA Op Amps, SOIC-14/TSSOP-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6L94/",
+  "part_path": "parts/MCP6L94",
+  "symbol_file": "parts/MCP6L94/MCP6L94.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:10:15.230Z"
+}

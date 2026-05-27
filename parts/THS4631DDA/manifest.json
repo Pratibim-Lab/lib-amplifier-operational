@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/THS4631DDA:THS4631DDA",
+  "name": "THS4631DDA",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/THS4631DDA.kicad_sym",
+  "description": "Single High-voltage, High Slew Rate, Wideband, FET-input Operational Amplifier, SOIC-8",
+  "datasheet": "www.ti.com/lit/ds/symlink/ths4631.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/THS4631DDA/",
+  "part_path": "parts/THS4631DDA",
+  "symbol_file": "parts/THS4631DDA/THS4631DDA.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:09.460Z"
+}

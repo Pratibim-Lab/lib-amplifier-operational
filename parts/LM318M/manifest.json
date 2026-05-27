@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM318M:LM318M",
+  "name": "LM318M",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM318M.kicad_sym",
+  "description": "Operational Amplifier, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm318-n.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM318M/",
+  "part_path": "parts/LM318M",
+  "symbol_file": "parts/LM318M/LM318M.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:59.575Z"
+}

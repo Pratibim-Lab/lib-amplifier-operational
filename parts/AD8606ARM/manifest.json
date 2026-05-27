@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8606ARM:AD8606ARM",
+  "name": "AD8606ARM",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8606ARM.kicad_sym",
+  "description": "Dual Precision Low Noise, Low Input Bias Current, Wide Bandwidth Operational Amplifiers, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8606ARM/",
+  "part_path": "parts/AD8606ARM",
+  "symbol_file": "parts/AD8606ARM/AD8606ARM.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:29.848Z"
+}

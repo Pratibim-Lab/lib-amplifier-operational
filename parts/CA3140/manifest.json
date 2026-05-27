@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/CA3140:CA3140",
+  "name": "CA3140",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/CA3140.kicad_sym",
+  "description": "4.5MHz, BiMOS Operational Amplifier with MOSFET Input/Bipolar Output, DIP-8/SOIC-8",
+  "datasheet": "http://www.intersil.com/content/dam/intersil/documents/ca31/ca3140-a.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "CA3130",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/CA3140/",
+  "part_path": "parts/CA3140",
+  "symbol_file": "parts/CA3140/CA3140.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:32.488Z"
+}

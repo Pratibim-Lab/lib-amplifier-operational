@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA376xxD:OPA376xxD",
+  "name": "OPA376xxD",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA376xxD.kicad_sym",
+  "description": "Single Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa376.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "OPA333xxD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA376xxD/",
+  "part_path": "parts/OPA376xxD",
+  "symbol_file": "parts/OPA376xxD/OPA376xxD.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:20.208Z"
+}

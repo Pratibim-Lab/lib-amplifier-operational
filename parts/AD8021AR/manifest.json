@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/AD8021AR:AD8021AR",
+  "name": "AD8021AR",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/AD8021AR.kicad_sym",
+  "description": "Operational Amplifier, 4.5-24V single/dual supply, low noise, high speed, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8021.pdf",
+  "keywords": "Opamp",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/AD8021AR/",
+  "part_path": "parts/AD8021AR",
+  "symbol_file": "parts/AD8021AR/AD8021AR.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:06:25.120Z"
+}

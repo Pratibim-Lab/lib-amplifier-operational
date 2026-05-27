@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP603-xCH:MCP603-xCH",
+  "name": "MCP603-xCH",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP603-xCH.kicad_sym",
+  "description": "Single 2.7V to 6.0V Single Supply CMOS Op Amps, with Chip Select, SOT-23-6",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP603-xCH/",
+  "part_path": "parts/MCP603-xCH",
+  "symbol_file": "parts/MCP603-xCH/MCP603-xCH.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:51.854Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM358_DFN:LM358_DFN",
+  "name": "LM358_DFN",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM358_DFN.kicad_sym",
+  "description": "Low-Power, Dual Operational Amplifiers, DFN-8",
+  "datasheet": "www.st.com/resource/en/datasheet/lm358.pdf",
+  "keywords": "dual opamp",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm",
+  "extends": "TSV912IQ2T",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM358_DFN/",
+  "part_path": "parts/LM358_DFN",
+  "symbol_file": "parts/LM358_DFN/LM358_DFN.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:06.162Z"
+}

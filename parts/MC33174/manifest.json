@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MC33174:MC33174",
+  "name": "MC33174",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MC33174.kicad_sym",
+  "description": "Quad Single Supply 3.0V to 44V, Low Power Operational Amplifiers, DIP-14/SOIC-14/TSSOP-14",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/MC33171-D.PDF",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MC33174/",
+  "part_path": "parts/MC33174",
+  "symbol_file": "parts/MC33174/MC33174.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:28.936Z"
+}

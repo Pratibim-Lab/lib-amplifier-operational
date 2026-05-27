@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6081xMS8:LTC6081xMS8",
+  "name": "LTC6081xMS8",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6081xMS8.kicad_sym",
+  "description": "Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf",
+  "keywords": "dual opamp",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6081xMS8/",
+  "part_path": "parts/LTC6081xMS8",
+  "symbol_file": "parts/LTC6081xMS8/LTC6081xMS8.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:00.930Z"
+}

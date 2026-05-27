@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LTC6082xGN:LTC6082xGN",
+  "name": "LTC6082xGN",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LTC6082xGN.kicad_sym",
+  "description": "Precision Quad CMOS Rail-to-Rail Input/Output Amplifiers, SSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LTC6082xGN/",
+  "part_path": "parts/LTC6082xGN",
+  "symbol_file": "parts/LTC6082xGN/LTC6082xGN.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:03.223Z"
+}

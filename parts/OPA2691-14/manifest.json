@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA2691-14:OPA2691-14",
+  "name": "OPA2691-14",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA2691-14.kicad_sym",
+  "description": "Dual Wideband, Current-Feedback Operational Amplifier With Disable, SOIC-14",
+  "datasheet": "http://www.ti.com/lit/ds/sbos224d/sbos224d.pdf",
+  "keywords": "dual current feedback opamp",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA2691-14/",
+  "part_path": "parts/OPA2691-14",
+  "symbol_file": "parts/OPA2691-14/OPA2691-14.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:11:48.510Z"
+}

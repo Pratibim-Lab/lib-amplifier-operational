@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LOG114AxRGV:LOG114AxRGV",
+  "name": "LOG114AxRGV",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LOG114AxRGV.kicad_sym",
+  "description": "Logarithmic difference amplifer, Transimpedance input, 100pA to 10mA, integrated 2.5V reference, single or dual supply: +-5V, +5V, VQFN-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/log114.pdf",
+  "keywords": "logamp texas ti tia",
+  "footprint": "Package_DFN_QFN:Texas_RGV0016A_VQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LOG114AxRGV/",
+  "part_path": "parts/LOG114AxRGV",
+  "symbol_file": "parts/LOG114AxRGV/LOG114AxRGV.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:42.268Z"
+}

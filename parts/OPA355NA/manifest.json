@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA355NA:OPA355NA",
+  "name": "OPA355NA",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA355NA.kicad_sym",
+  "description": "200MHz, CMOS, Operational amplifier, with shutdown, SOT-23-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa355.pdf",
+  "keywords": "operational amplifier opamp shutdown high-speed",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA355NA/",
+  "part_path": "parts/OPA355NA",
+  "symbol_file": "parts/OPA355NA/OPA355NA.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:14.638Z"
+}

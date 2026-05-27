@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/TLV9061xDCK:TLV9061xDCK",
+  "name": "TLV9061xDCK",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/TLV9061xDCK.kicad_sym",
+  "description": "10-MHz, RRIO, CMOS Operational Amplifiers for Cost-Sensitive Systems, SC-70",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv9061.pdf",
+  "keywords": "single opamp rail to rail input output",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "TLV172IDCK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/TLV9061xDCK/",
+  "part_path": "parts/TLV9061xDCK",
+  "symbol_file": "parts/TLV9061xDCK/TLV9061xDCK.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:13:56.769Z"
+}

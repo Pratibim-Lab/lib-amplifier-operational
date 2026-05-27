@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LM101:LM101",
+  "name": "LM101",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LM101.kicad_sym",
+  "description": "Operational Amplifier, DIP-8/TO-99-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm101a-n.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "NE5534",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LM101/",
+  "part_path": "parts/LM101",
+  "symbol_file": "parts/LM101/LM101.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:07:49.524Z"
+}

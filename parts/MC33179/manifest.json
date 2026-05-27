@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MC33179:MC33179",
+  "name": "MC33179",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MC33179.kicad_sym",
+  "description": "Quad Low Power, Low Noise Operational Amplifiers, DIP-14/SOIC-14/SSOP-14",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MC33178-D.PDF",
+  "keywords": "quad opamp",
+  "footprint": "",
+  "extends": "LM2902",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MC33179/",
+  "part_path": "parts/MC33179",
+  "symbol_file": "parts/MC33179/MC33179.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:31.308Z"
+}

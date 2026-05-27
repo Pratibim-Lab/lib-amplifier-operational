@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/LT1363:LT1363",
+  "name": "LT1363",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/LT1363.kicad_sym",
+  "description": "70MHz, 1000V/µs Operational Amplifier, DIP-8/SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1363fa.pdf",
+  "keywords": "single opamp",
+  "footprint": "",
+  "extends": "OP07",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/LT1363/",
+  "part_path": "parts/LT1363",
+  "symbol_file": "parts/LT1363/LT1363.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:08:47.755Z"
+}

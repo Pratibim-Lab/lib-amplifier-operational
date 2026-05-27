@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/OPA330xxYFF:OPA330xxYFF",
+  "name": "OPA330xxYFF",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/OPA330xxYFF.kicad_sym",
+  "description": "50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, DSBGA",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa330.pdf",
+  "keywords": "single opamp",
+  "footprint": "Package_BGA:Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/OPA330xxYFF/",
+  "part_path": "parts/OPA330xxYFF",
+  "symbol_file": "parts/OPA330xxYFF/OPA330xxYFF.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:12:04.236Z"
+}

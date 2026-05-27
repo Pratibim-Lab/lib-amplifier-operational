@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Operational/MCP6022:MCP6022",
+  "name": "MCP6022",
+  "library": "Amplifier_Operational",
+  "file": "Amplifier_Operational.kicad_symdir/MCP6022.kicad_sym",
+  "description": "Dual Operational Amplifiers, Rail-to-Rail Input/Output, DIP-8/SOIC-8/TSSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/20001685e.pdf",
+  "keywords": "dual opamp rail-to-rail",
+  "footprint": "",
+  "extends": "LM2904",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-operational@master/parts/MCP6022/",
+  "part_path": "parts/MCP6022",
+  "symbol_file": "parts/MCP6022/MCP6022.kicad_sym",
+  "source_library": "Amplifier_Operational.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:09:50.770Z"
+}
